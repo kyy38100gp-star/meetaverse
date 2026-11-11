@@ -1,16 +1,11 @@
 {
-  "editedBy": "AMS",
-  "editedAt": "2026-11-11T22:44:02.528Z",
+  "editedBy": "NI",
+  "editedAt": "2026-11-11T22:45:08.420Z",
   "history": [
     {
-      "by": "AMS",
-      "at": "2026-11-11T22:44:02.528Z",
-      "what": "a modifié « test »"
-    },
-    {
-      "by": "AMS",
-      "at": "2026-11-11T22:43:31.536Z",
-      "what": "a ajouté « test »"
+      "by": "NI",
+      "at": "2026-11-11T22:45:08.420Z",
+      "what": "a modifié « Blanchiment »"
     },
     {
       "by": "Staff Meetaverse",
@@ -87,9 +82,9 @@
       "group": "Règles générales",
       "icon": "local_laundry_service",
       "title": "Blanchiment",
-      "body": "- **Interdit** de poser une machine de blanchiment dans un endroit incohérent, en zone safe ou dans un QG (buissons, sous l'eau, etc.).",
-      "editedBy": "Staff Meetaverse",
-      "editedAt": "2026-11-11T23:40:00.000Z"
+      "body": "- **Interdiction** De camper le blanchiment que ce soit a l'extérieur ou a l'intérieur ",
+      "editedBy": "NI",
+      "editedAt": "2026-11-11T22:45:08.420Z"
     },
     {
       "id": "vols",
@@ -252,15 +247,6 @@
       "body": "## Limite de kevlar\n| Orga contre gang | 10 kev |\n| Orga contre orga | 20 kev |\n\n## Combat\n- Redrop : autorisé\n- Face à face : autorisé\n- Bait : interdit\n- Back : **1 voiture de 2 personnes maximum** (gangs et organisations)",
       "editedBy": "Staff Meetaverse",
       "editedAt": "2026-11-11T23:40:00.000Z"
-    },
-    {
-      "id": "test",
-      "title": "test",
-      "group": "Spécifique Meetaverse",
-      "icon": "gavel",
-      "body": "- test",
-      "editedBy": "AMS",
-      "editedAt": "2026-11-11T22:44:02.528Z"
     }
   ]
 }
