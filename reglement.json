@@ -1,7 +1,12 @@
 {
-  "editedBy": "Staff Meetaverse",
-  "editedAt": "2026-11-11T23:40:00.000Z",
+  "editedBy": "AMS",
+  "editedAt": "2026-11-11T22:43:31.536Z",
   "history": [
+    {
+      "by": "AMS",
+      "at": "2026-11-11T22:43:31.536Z",
+      "what": "a ajouté « test »"
+    },
     {
       "by": "Staff Meetaverse",
       "at": "2026-11-11T23:40:00.000Z",
@@ -242,6 +247,15 @@
       "body": "## Limite de kevlar\n| Orga contre gang | 10 kev |\n| Orga contre orga | 20 kev |\n\n## Combat\n- Redrop : autorisé\n- Face à face : autorisé\n- Bait : interdit\n- Back : **1 voiture de 2 personnes maximum** (gangs et organisations)",
       "editedBy": "Staff Meetaverse",
       "editedAt": "2026-11-11T23:40:00.000Z"
+    },
+    {
+      "id": "test",
+      "title": "test",
+      "group": "Cadre RP",
+      "icon": "gavel",
+      "body": "- test",
+      "editedBy": "AMS",
+      "editedAt": "2026-11-11T22:43:31.536Z"
     }
   ]
 }
