@@ -1,7 +1,12 @@
 {
   "editedBy": "AMS",
-  "editedAt": "2026-11-11T22:43:31.536Z",
+  "editedAt": "2026-11-11T22:44:02.528Z",
   "history": [
+    {
+      "by": "AMS",
+      "at": "2026-11-11T22:44:02.528Z",
+      "what": "a modifié « test »"
+    },
     {
       "by": "AMS",
       "at": "2026-11-11T22:43:31.536Z",
@@ -251,11 +256,11 @@
     {
       "id": "test",
       "title": "test",
-      "group": "Cadre RP",
+      "group": "Spécifique Meetaverse",
       "icon": "gavel",
       "body": "- test",
       "editedBy": "AMS",
-      "editedAt": "2026-11-11T22:43:31.536Z"
+      "editedAt": "2026-11-11T22:44:02.528Z"
     }
   ]
 }
