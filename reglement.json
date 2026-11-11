@@ -1,0 +1,103 @@
+{
+  "editedBy": "Staff Meetaverse",
+  "editedAt": "2026-11-11T22:00:00.000Z",
+  "history": [
+    {
+      "by": "Staff Meetaverse",
+      "at": "2026-11-11T22:00:00.000Z",
+      "what": "Création du règlement illégal"
+    }
+  ],
+  "sections": [
+    {
+      "id": "territoires",
+      "group": "Règles générales",
+      "icon": "flag",
+      "title": "Territoires",
+      "body": "- La présence de **2 véhicules** d'un même groupe suffit à marquer son territoire, **peu importe le nombre de joueurs** à l'intérieur.\n\n| Rayon du territoire | 50 m |\n| Véhicules nécessaires | 2 |",
+      "editedBy": "Staff Meetaverse",
+      "editedAt": "2026-11-11T22:00:00.000Z"
+    },
+    {
+      "id": "cargaison",
+      "group": "Règles générales",
+      "icon": "inventory_2",
+      "title": "Cargaison et drop",
+      "body": "- **Un seul groupe** a le droit de taper la cargaison.\n- Concerne le **drop de matières premières d'armes**.",
+      "editedBy": "Staff Meetaverse",
+      "editedAt": "2026-11-11T22:00:00.000Z"
+    },
+    {
+      "id": "cvc",
+      "group": "Règles générales",
+      "icon": "swords",
+      "title": "Règles CVC",
+      "body": "## Limite de kevlar\n| Orga contre gang | 10 kev |\n| Orga contre orga | 20 kev |\n\n## Combat\n- Redrop : autorisé\n- Face à face : autorisé\n- Bait : interdit\n- Back : **2 voitures maximum** (gangs et organisations)",
+      "editedBy": "Staff Meetaverse",
+      "editedAt": "2026-11-11T22:00:00.000Z"
+    },
+    {
+      "id": "taxe",
+      "group": "Règles générales",
+      "icon": "payments",
+      "title": "Taxe de groupe",
+      "body": "! Il faut une **bonne raison** pour taxer un groupe, sinon la taxe est **annulée**.\n\n| Raison mineure | 25 000 $ |\n| Raison majeure | 50 000 $ |",
+      "editedBy": "Staff Meetaverse",
+      "editedAt": "2026-11-11T22:00:00.000Z"
+    },
+    {
+      "id": "fleeca",
+      "group": "Braquages",
+      "icon": "account_balance",
+      "title": "Fleeca",
+      "body": "| Otages max | 3 |\n| Membres min | 2 |\n| Membres max | 4 |\n| Véhicules max | 2 |\n| Arme minimum | SNS |",
+      "editedBy": "Staff Meetaverse",
+      "editedAt": "2026-11-11T22:00:00.000Z"
+    },
+    {
+      "id": "bijouterie",
+      "group": "Braquages",
+      "icon": "diamond",
+      "title": "Bijouterie",
+      "body": "| Otages max | 5 |\n| Membres min | 2 |\n| Membres max | 4 |\n| Véhicules max | 2 |\n| Arme minimum | Beretta |",
+      "editedBy": "Staff Meetaverse",
+      "editedAt": "2026-11-11T22:00:00.000Z"
+    },
+    {
+      "id": "pacific",
+      "group": "Braquages",
+      "icon": "savings",
+      "title": "Pacific",
+      "body": "| Otages max | 10 |\n| Membres min dans la banque | 6 |\n| Membres max dans la banque | 8 |\n| Véhicules max | 4 |\n| Arme minimum | Beretta |",
+      "editedBy": "Staff Meetaverse",
+      "editedAt": "2026-11-11T22:00:00.000Z"
+    },
+    {
+      "id": "superette",
+      "group": "Braquages",
+      "icon": "storefront",
+      "title": "Supérette",
+      "body": "! Pas de policier à la fin du braquage ? Attendre **5 minutes minimum** sur place.\n\n| Membres | Illimité |\n| Véhicules max | 1 |\n| Arme minimum | Arme blanche |",
+      "editedBy": "Staff Meetaverse",
+      "editedAt": "2026-11-11T22:00:00.000Z"
+    },
+    {
+      "id": "conteneur",
+      "group": "Braquages",
+      "icon": "deployed_code",
+      "title": "Conteneur",
+      "body": "! Pas de policier à la fin du braquage ? Attendre **3 minutes minimum** sur place.\n\n| Membres | Illimité |\n| Véhicules max | 1 |",
+      "editedBy": "Staff Meetaverse",
+      "editedAt": "2026-11-11T22:00:00.000Z"
+    },
+    {
+      "id": "loot",
+      "group": "Loot et otages",
+      "icon": "back_hand",
+      "title": "Loot et prise d'otage",
+      "body": "| Loot maximum | 50 % |\n\n- Une **raison valable** est obligatoire pour looter ou prendre en otage.\n- Looter les services (police, EMS, etc.) : interdit\n- Appels d'entreprise pour les braquages : interdit",
+      "editedBy": "Staff Meetaverse",
+      "editedAt": "2026-11-11T22:00:00.000Z"
+    }
+  ]
+}
