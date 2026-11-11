@@ -1,7 +1,12 @@
 {
   "editedBy": "NI",
-  "editedAt": "2026-11-11T22:45:08.420Z",
+  "editedAt": "2026-11-11T22:49:59.187Z",
   "history": [
+    {
+      "by": "NI",
+      "at": "2026-11-11T22:49:59.187Z",
+      "what": "a modifié « Nombre d'otages »"
+    },
     {
       "by": "NI",
       "at": "2026-11-11T22:45:08.420Z",
@@ -154,9 +159,9 @@
       "group": "Prises d'otage",
       "icon": "groups",
       "title": "Nombre d'otages",
-      "body": "| Braquage | Minimum | Maximum |\n| Armurerie | 1 | 1 |\n| Fleeca Bank | 2 | 2 |\n| Bijouterie | 2 | 2 |\n| Pine Roxwood | 3 | 4 |\n| Human Labs | 4 | 4 |\n| Pacific Bank | 6 | 6 |\n| Casino | 8 | 8 |",
-      "editedBy": "Staff Meetaverse",
-      "editedAt": "2026-11-11T23:40:00.000Z"
+      "body": "| Braquage | Minimum | Maximum |\n| Fleeca Bank | 3 | 3 |\n| Bijouterie | 2 | 4 |\n| Pacific Bank | 6 | 10 |\n",
+      "editedBy": "NI",
+      "editedAt": "2026-11-11T22:49:59.187Z"
     },
     {
       "id": "fuite_regles",
