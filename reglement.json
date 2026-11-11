@@ -1,103 +1,247 @@
 {
   "editedBy": "Staff Meetaverse",
-  "editedAt": "2026-11-11T22:00:00.000Z",
+  "editedAt": "2026-11-11T23:40:00.000Z",
   "history": [
     {
       "by": "Staff Meetaverse",
-      "at": "2026-11-11T22:00:00.000Z",
-      "what": "Création du règlement illégal"
+      "at": "2026-11-11T23:40:00.000Z",
+      "what": "Nouveau règlement illégal complet"
     }
   ],
   "sections": [
     {
-      "id": "territoires",
+      "id": "lexique",
+      "group": "Cadre RP",
+      "icon": "menu_book",
+      "title": "Lexique illégal",
+      "body": "! En jeu, le mot « offi » ou « officiel » est interdit et peut mener à un bannissement. Utilise le vocabulaire RP ci dessous.\n\n## Ta situation et ce que tu dis en RP\n- Civil qui fait de l'illégal → « Je suis une **petite frappe** »\n- Civil dans un groupe indépendant → « Je suis dans un **groupe indépendant** »\n- Civil dans une organisation indépendante → « Je suis dans une **organisation indépendante** »\n- Membre d'un gang → « Je fais partie d'un **gang** »\n- Membre d'une orga → « Je fais partie d'une **mafia**, d'une **famille**, d'un **cartel** ou d'une **organisation criminelle** »",
+      "editedBy": "Staff Meetaverse",
+      "editedAt": "2026-11-11T23:40:00.000Z"
+    },
+    {
+      "id": "coherence",
+      "group": "Cadre RP",
+      "icon": "theater_comedy",
+      "title": "Cohérence RP",
+      "body": "- Toute incohérence de personnage est **interdite** : ton personnage doit correspondre à l'identité du gang qu'il rejoint (origine, prénom, apparence).\n- Ta façon de parler doit aussi coller à ton personnage et à ton gang : pas d'expressions qui sortent complètement de son univers.\n- Demander des POV, des vidéos ou autre comme critère de recrutement est **interdit**.",
+      "editedBy": "Staff Meetaverse",
+      "editedAt": "2026-11-11T23:40:00.000Z"
+    },
+    {
+      "id": "amendes",
       "group": "Règles générales",
+      "icon": "payments",
+      "title": "Amendes et taxes",
+      "body": "| Amende maximum | 50 000 $ |\n| Au delà de 25 000 $ | Raison sérieuse obligatoire |\n\n- Toute amende doit être **cohérente et justifiée**. Sans bonne raison, la taxe est annulée.\n- Seuls les **organisations indépendantes** et les **groupes officiels** peuvent demander, via leur liaison, à dépasser 50 000 $, et uniquement pour une très grosse raison.",
+      "editedBy": "Staff Meetaverse",
+      "editedAt": "2026-11-11T23:40:00.000Z"
+    },
+    {
+      "id": "sequestration",
+      "group": "Règles générales",
+      "icon": "lock",
+      "title": "Séquestration",
+      "body": "| Durée maximum | 1 h (plus avec accord staff) |\n| Au delà de 25 min | Grosse raison RP obligatoire |\n\n- **Interdit** d'abandonner un joueur ou de l'écarter du RP en le laissant seul.\n- Si tu retiens quelqu'un, c'est pour **créer du jeu** avec lui (interrogatoire, torture RP, négociation), pas pour le faire attendre sans but.",
+      "editedBy": "Staff Meetaverse",
+      "editedAt": "2026-11-11T23:40:00.000Z"
+    },
+    {
+      "id": "guerres",
+      "group": "Règles générales",
+      "icon": "swords",
+      "title": "Guerres entre groupes",
+      "body": "- Chaque guerre doit reposer sur de **vraies raisons RP**. Les abus peuvent mener à de lourdes sanctions (mort RP, wipe du projet).\n- Quand un groupe prend clairement le dessus, il doit **proposer une offre fairplay** à l'adversaire pour arrêter la guerre.\n! Si l'adversaire refuse par ego, le staff intervient (wipe du projet ou conséquence RP).",
+      "editedBy": "Staff Meetaverse",
+      "editedAt": "2026-11-11T23:40:00.000Z"
+    },
+    {
+      "id": "police",
+      "group": "Règles générales",
+      "icon": "local_police",
+      "title": "Forces de l'ordre",
+      "body": "- Une fois un membre de ton groupe **entré au poste de police**, il est trop tard : négocier son évasion ou sa libération est **interdit**.\n- Si un joueur **tire sur un agent**, aucune négociation n'est possible pour récupérer une arme, un membre ou un bien saisi après la scène.\n- **Kidnapping d'un agent** : le groupe n'a droit qu'à **une seule** négociation de sortie. Ensuite, la police ne négociera plus avec ces joueurs lors d'une prochaine prise d'otage, civil ou agent.",
+      "editedBy": "Staff Meetaverse",
+      "editedAt": "2026-11-11T23:40:00.000Z"
+    },
+    {
+      "id": "sns",
+      "group": "Règles générales",
+      "icon": "target",
+      "title": "SNS et braquages majeurs",
+      "body": "! Le SNS est **interdit** pour les braquages majeurs : Fleeca, Bijouterie, Human Labs, plateforme pétrolière, Roxwood Pine Bank, Pacific Bank, Casino et braquages sous dossier staff.\n\n- Le SNS reste **autorisé** pour le reste : LTD, armurerie, braquage de joueurs, prise d'otage hors braquage majeur, fusillade contre un autre groupe, etc.",
+      "editedBy": "Staff Meetaverse",
+      "editedAt": "2026-11-11T23:40:00.000Z"
+    },
+    {
+      "id": "blanchiment",
+      "group": "Règles générales",
+      "icon": "local_laundry_service",
+      "title": "Blanchiment",
+      "body": "- **Interdit** de poser une machine de blanchiment dans un endroit incohérent, en zone safe ou dans un QG (buissons, sous l'eau, etc.).",
+      "editedBy": "Staff Meetaverse",
+      "editedAt": "2026-11-11T23:40:00.000Z"
+    },
+    {
+      "id": "vols",
+      "group": "Vols et arnaques",
+      "icon": "back_hand",
+      "title": "Vols et loot",
+      "body": "| Loot maximum | 50 % |\n| Voler une arme | Interdit (sauf dans un coffre de véhicule) |\n\n- **Interdit** de prendre quoi que ce soit sans raison RP valable.\n- Un **coffre de véhicule abandonné** (hors zone safe) peut être vidé. Ce qui est volé dans un coffre n'est pas remboursé : ferme ton coffre.\n- **Interdit** de vider un coffre si un joueur est caché dedans : c'est du freeloot.\n- **Interdit** de voler le matériel de service des services publics (police, EMS, etc.).\n- **Interdit** de forcer un citoyen à sortir l'argent de son coffre, de son compte bancaire ou de son appartement.\n- Un téléphone volé doit être **rendu** à la fin de la scène.",
+      "editedBy": "Staff Meetaverse",
+      "editedAt": "2026-11-11T23:40:00.000Z"
+    },
+    {
+      "id": "arnaques",
+      "group": "Vols et arnaques",
+      "icon": "sell",
+      "title": "Ventes et zones",
+      "body": "- **Interdit** de vendre son véhicule à un prix injustifié : le prix doit suivre le prix d'achat et les améliorations.\n- **Interdit** de loot un joueur au nom d'une zone que tu n'as pas achetée via le système de zone de vente (F7).\n- Quelqu'un qui vend dans ta zone peut être braqué et chassé, mais **pas dépouillé**. S'il revient une deuxième fois, tu peux le dépouiller.",
+      "editedBy": "Staff Meetaverse",
+      "editedAt": "2026-11-11T23:40:00.000Z"
+    },
+    {
+      "id": "braquages_regles",
+      "group": "Braquages",
+      "icon": "gpp_maybe",
+      "title": "Règles des braquages",
+      "body": "| Braquer seul | Interdit |\n| Moyenne envergure (Fleeca, Bijouterie) | 2 braqueurs min |\n| Haute envergure (Roxwood, Human Labs, Plateforme, Pacific) | 5 braqueurs min |\n| Fleeca | 1 braquage toutes les 5 h par joueur |\n\n- Entre braqueurs, des **sommations orales** sont obligatoires avant de tirer.\n- **Interdit** de contre braquer des joueurs en plein braquage.\n- **Interdit** de braquer juste pour enchaîner des braquages minute : il faut de bonnes raisons.\n- **Interdit** d'enchaîner les braquages au même endroit (ex : attendre sur le point go fast). Tu en fais un, puis tu pars.\n- **Interdit** de camper une Fleeca en attendant le cooldown : 5 minutes de tolérance, ensuite tu libères la zone.\n! Utiliser l'unité X pendant un braquage en cours (Human Labs, Plateforme, Pacific, etc.) entraîne un **wipe et 2 mois de ban illégal**.",
+      "editedBy": "Staff Meetaverse",
+      "editedAt": "2026-11-11T23:40:00.000Z"
+    },
+    {
+      "id": "attente_police",
+      "group": "Braquages",
+      "icon": "timer",
+      "title": "Attente de la police",
+      "body": "| Supérette / Armurerie | 7 min |\n| Fleeca / Bijouterie | 10 min |\n| ATM réussi | 7 min |\n| Conteneur | 5 min |\n| Plateforme / Human Labs | 25 min |\n\n- Un **ATM raté** : tu peux fuir directement.\n- Plateforme pétrolière et Human Labs : les 25 minutes comptent **à partir du lancement**, et la fuite à la nage ou en plongée y est interdite.",
+      "editedBy": "Staff Meetaverse",
+      "editedAt": "2026-11-11T23:40:00.000Z"
+    },
+    {
+      "id": "braquages_vehicules",
+      "group": "Braquages",
+      "icon": "two_wheeler",
+      "title": "Véhicules en braquage",
+      "body": "- **Interdit** de braquer (Fleeca, LTD, Bijouterie, etc.) en moto, quad, scooter, buggy ou hélicoptère.\n- **Interdit** de faire un LTD, un ATM, un cambriolage ou une vente de drogue en supersportive : adapte ton véhicule aux petits braquages (voir la liste dans Fuite et poursuites).\n- Conteneur : **1 véhicule maximum**.",
+      "editedBy": "Staff Meetaverse",
+      "editedAt": "2026-11-11T23:40:00.000Z"
+    },
+    {
+      "id": "services",
+      "group": "Braquages",
+      "icon": "medical_services",
+      "title": "Services publics",
+      "body": "- Les services publics sont des métiers légaux : **interdit** de les braquer pour obtenir armes, soins ou réparations gratuits.\n- **Interdit** de passer un appel métier ou entreprise dans le but de braquer.\n- Les joueurs **sans organisation** n'ont pas le droit de braquer les convois de police.\n- Pendant une guerre économique ou un braquage de convoi (farm, matériaux), **50 % maximum** de la cargaison.",
+      "editedBy": "Staff Meetaverse",
+      "editedAt": "2026-11-11T23:40:00.000Z"
+    },
+    {
+      "id": "otages_regles",
+      "group": "Prises d'otage",
+      "icon": "person_alert",
+      "title": "Règles des prises d'otage",
+      "body": "- Il faut une **bonne raison** pour prendre en otage un policier ou un EMS.\n- **Interdit** de prendre un faux otage complice, sauf accord staff.\n- **Interdit** de prendre en otage un vendeur (24/7, LTD) sur son lieu de travail ou à moins de 50 m environ, sauf pour braquer ce commerce.\n- Délai maximum avant de **lancer** le braquage : **15 minutes** (être dans la banque ne compte pas). Passé ce délai, tu relâches les otages.\n> Plus de 8 otages : autorisation staff obligatoire (sous dossier).",
+      "editedBy": "Staff Meetaverse",
+      "editedAt": "2026-11-11T23:40:00.000Z"
+    },
+    {
+      "id": "otages_nombre",
+      "group": "Prises d'otage",
+      "icon": "groups",
+      "title": "Nombre d'otages",
+      "body": "| Braquage | Minimum | Maximum |\n| Armurerie | 1 | 1 |\n| Fleeca Bank | 2 | 2 |\n| Bijouterie | 2 | 2 |\n| Pine Roxwood | 3 | 4 |\n| Human Labs | 4 | 4 |\n| Pacific Bank | 6 | 6 |\n| Casino | 8 | 8 |",
+      "editedBy": "Staff Meetaverse",
+      "editedAt": "2026-11-11T23:40:00.000Z"
+    },
+    {
+      "id": "fuite_regles",
+      "group": "Fuite et poursuites",
+      "icon": "directions_run",
+      "title": "Règles de fuite",
+      "body": "- **Interdit** de forcer un joueur à donner les clés de son véhicule. Tu peux seulement exiger qu'il l'ouvre si tu es en danger immédiat face à la **police**, avec un vrai contexte RP.\n- **Interdit** de fuir la police à la nage ou en hélicoptère, sauf accord staff (sous dossier).\n- **Interdit** de fuir en deux roues après une négociation (sauf groupe MC).\n- Plans mule : uniquement avec des véhicules **Vans, Industriels ou Commerciaux**.\n! Dès qu'une course poursuite avec la police commence : **aucun offroad ni plan de fuite avant 10 minutes**.",
+      "editedBy": "Staff Meetaverse",
+      "editedAt": "2026-11-11T23:40:00.000Z"
+    },
+    {
+      "id": "plan_pneu",
+      "group": "Fuite et poursuites",
+      "icon": "tire_repair",
+      "title": "Plan pneu",
+      "body": "| Plan mule ou récup avant | Obligatoire |\n| Poursuite minimum | 10 min |\n| Véhicules de police derrière | 2 minimum |\n| Participants (conducteur compris) | 3 maximum |\n\n! Le plan pneu est ton **tout dernier recours**. Tout abus peut mener à une mort RP ou un ban.",
+      "editedBy": "Staff Meetaverse",
+      "editedAt": "2026-11-11T23:40:00.000Z"
+    },
+    {
+      "id": "plans_fuite",
+      "group": "Fuite et poursuites",
+      "icon": "table_chart",
+      "title": "Tableau des plans de fuite",
+      "body": "| Activité | Mule | Récup | Pneu | Offroad | Nage |\n| ATM | ❌ | ❌ | ❌ | ❌ | ❌ |\n| Supérette | ❌ | ❌ | ❌ | ❌ | ❌ |\n| Cambriolage | ❌ | ❌ | ❌ | ❌ | ❌ |\n| Vente de drogue | ❌ | ❌ | ❌ | ❌ | ❌ |\n| Go fast | ❌ | ❌ | ❌ | ❌ | ❌ |\n| Armurerie | ✅ | ✅ | ✅ | ✅ | ❌ |\n| Fleeca | ✅ | ✅ | ✅ | ✅ | ❌ |\n| Bijouterie | ✅ | ✅ | ✅ | ✅ | ❌ |\n| Human Labs | ✅ | ✅ | ✅ | ✅ | ❌ |\n| Plateforme | ✅ | ✅ | ✅ | ✅ | ❌ |\n| Pacific | ✅ | ✅ | ✅ | ✅ | ❌ |\n| Convois | ✅ | ✅ | ✅ | ✅ | ❌ |\n\n> ✅ autorisé seulement après 10 minutes de poursuite. ❌ interdit dans tous les cas.",
+      "editedBy": "Staff Meetaverse",
+      "editedAt": "2026-11-11T23:40:00.000Z"
+    },
+    {
+      "id": "vehicules_interdits",
+      "group": "Fuite et poursuites",
+      "icon": "no_crash",
+      "title": "Véhicules interdits (petits délits)",
+      "body": "Ces véhicules sont trop puissants pour les petits délits : **interdits** pour conteneurs, LTD, ATM, cambriolages et ventes de drogue. Ils restent autorisés pour l'illégal de plus grande envergure.\n\n## Super\nAdder, Autarch, Banshee 900R, Bullet, Cheetah, Cyclone, Emerus, Entity XF, Entity XXR, ETR 1, FMJ, Furia, GP1, Infernus, Itali GTB, Itali GTB Custom, Itali GTO, Itali RSX, Krieger, Nero, Nero Custom, Osiris, Penetrator, Pfister 811, Re 7B, Reaper, SC 1, Sultan RS, T20, Taipan, Tempesta, Tezeract, Thrax, Tigon, Turismo R, Tyrant, Tyrus, Vacca, Vagner, Visione, Voltic, X80 Proto, XA 21, Zeno, Zentorno, Zorrusso.\n\n## Sports Classics\nChampion, Comet S2 Cabrio, Benefactor LM87, Deveste, Entity MT, Infernus Classic, S80RR, Suzume, Torero, Torero XO, Turismo Classic, Turismo Omaggio, Virtue, X treme.\n\n## Sports\n300R, Banshee GTS, Benefactor SM722, Comet S2, Comet Safari, Comet SR, Coquette V10, Corsita, Coureur, Envisage, Growler, Imorgon, Issi Sport, Itali GTO Stinger TT, Jester RR, Jester RR Drift, Jester RR Widebody, Jugular, Komoda, Locust, Neo, Neon, Obey 10F, Obey 10F Widebody, Panthere, Paragon R, Paragon S, Raiden, Rapid GT X, Revolter, Ruston, Schlagen, Sentinel GTS, Vectre, V STR.\n\n## Sedans, Muscle et SUV\nDeity, Vigero ZX, Vigero ZX Convertible, Buffalo EVX, Dominator GT, Dominator GT Drift, Toros, Astron, Rebla GTS, Jubilee.\n\n## Boutique\nNexus RR, Comet S2R, Comet S2R CA, Sultan RSX, Pegassi Concept, Sentinel GTS, Benefactor Eisen, Benefactor Blitz, BF Club 8R.",
+      "editedBy": "Staff Meetaverse",
+      "editedAt": "2026-11-11T23:40:00.000Z"
+    },
+    {
+      "id": "drogues",
+      "group": "Drogues et points illégaux",
+      "icon": "grass",
+      "title": "Drogues",
+      "body": "- Les **civils** n'ont accès qu'aux points de weed. Pour les autres drogues, il faut au moins être dans un groupe indépendant.\n- **Interdit** de vendre à moto, buggy, quad, vélo ou avec un moyen de transport incohérent (cheval, supersportive, etc.).\n- Vendre dans une zone revendiquée par un autre groupe peut avoir de **grosses conséquences RP**.\n- Récolte et traitement uniquement avec : **Steed, Speedo, Moonbeam, Burrito, Youga, Rumpo**.",
+      "editedBy": "Staff Meetaverse",
+      "editedAt": "2026-11-11T23:40:00.000Z"
+    },
+    {
+      "id": "points_illegaux",
+      "group": "Drogues et points illégaux",
+      "icon": "location_on",
+      "title": "Points illégaux",
+      "body": "| Camper un point illégal | 5 min max |\n| Zone concernée | 500 m autour |\n| Retour sur le même point | 30 min minimum |\n\n- Le délai de retour ne s'applique pas aux machines de blanchiment du darknet (mais bien aux laboratoires).\n- **Interdit** de braquer ou loot au PNJ de départ (ex : PNJ du go fast ou de la bijouterie).\n- **Interdit** de fouiller ou voler un joueur sur un point illégal (blanchiment, drogue, go fast, pêche illégale) sans raison, sauf **flagrant délit** : tu l'as vu utiliser le point.",
+      "editedBy": "Staff Meetaverse",
+      "editedAt": "2026-11-11T23:40:00.000Z"
+    },
+    {
+      "id": "gunfight",
+      "group": "Gunfight",
+      "icon": "sports_martial_arts",
+      "title": "Gunfight",
+      "body": "- **Interdit** de prendre de grosses hauteurs juste avant un gunfight.\n- **Interdit** de trash, danser ou provoquer quelqu'un à terre ou pendant le gunfight.\n- **Interdit** de ragdoll ou de lancer des animations pendant un gunfight.\n- Les corps se sécurisent dans un **endroit cohérent**, jamais dans l'eau ou un buisson (risque de mort RP).\n- **Interdit** de porter la couleur du groupe adverse pendant un gunfight.",
+      "editedBy": "Staff Meetaverse",
+      "editedAt": "2026-11-11T23:40:00.000Z"
+    },
+    {
+      "id": "territoires",
+      "group": "Spécifique Meetaverse",
       "icon": "flag",
       "title": "Territoires",
-      "body": "- La présence de **2 véhicules** d'un même groupe suffit à marquer son territoire, **peu importe le nombre de joueurs** à l'intérieur.\n\n| Rayon du territoire | 50 m |\n| Véhicules nécessaires | 2 |",
+      "body": "- **2 véhicules** d'un même groupe suffisent à marquer son territoire, peu importe le nombre de joueurs à l'intérieur.\n\n| Rayon du territoire | 50 m |\n| Véhicules nécessaires | 2 |",
       "editedBy": "Staff Meetaverse",
-      "editedAt": "2026-11-11T22:00:00.000Z"
+      "editedAt": "2026-11-11T23:40:00.000Z"
     },
     {
       "id": "cargaison",
-      "group": "Règles générales",
+      "group": "Spécifique Meetaverse",
       "icon": "inventory_2",
       "title": "Cargaison et drop",
-      "body": "- **Un seul groupe** a le droit de taper la cargaison.\n- Concerne le **drop de matières premières d'armes**.",
+      "body": "- **Un seul groupe** a le droit de taper la cargaison du drop de matières premières d'armes.",
       "editedBy": "Staff Meetaverse",
-      "editedAt": "2026-11-11T22:00:00.000Z"
+      "editedAt": "2026-11-11T23:40:00.000Z"
     },
     {
       "id": "cvc",
-      "group": "Règles générales",
-      "icon": "swords",
+      "group": "Spécifique Meetaverse",
+      "icon": "shield",
       "title": "Règles CVC",
-      "body": "## Limite de kevlar\n| Orga contre gang | 10 kev |\n| Orga contre orga | 20 kev |\n\n## Combat\n- Redrop : autorisé\n- Face à face : autorisé\n- Bait : interdit\n- Back : **2 voitures maximum** (gangs et organisations)",
+      "body": "## Limite de kevlar\n| Orga contre gang | 10 kev |\n| Orga contre orga | 20 kev |\n\n## Combat\n- Redrop : autorisé\n- Face à face : autorisé\n- Bait : interdit\n- Back : **1 voiture de 2 personnes maximum** (gangs et organisations)",
       "editedBy": "Staff Meetaverse",
-      "editedAt": "2026-11-11T22:00:00.000Z"
-    },
-    {
-      "id": "taxe",
-      "group": "Règles générales",
-      "icon": "payments",
-      "title": "Taxe de groupe",
-      "body": "! Il faut une **bonne raison** pour taxer un groupe, sinon la taxe est **annulée**.\n\n| Raison mineure | 25 000 $ |\n| Raison majeure | 50 000 $ |",
-      "editedBy": "Staff Meetaverse",
-      "editedAt": "2026-11-11T22:00:00.000Z"
-    },
-    {
-      "id": "fleeca",
-      "group": "Braquages",
-      "icon": "account_balance",
-      "title": "Fleeca",
-      "body": "| Otages max | 3 |\n| Membres min | 2 |\n| Membres max | 4 |\n| Véhicules max | 2 |\n| Arme minimum | SNS |",
-      "editedBy": "Staff Meetaverse",
-      "editedAt": "2026-11-11T22:00:00.000Z"
-    },
-    {
-      "id": "bijouterie",
-      "group": "Braquages",
-      "icon": "diamond",
-      "title": "Bijouterie",
-      "body": "| Otages max | 5 |\n| Membres min | 2 |\n| Membres max | 4 |\n| Véhicules max | 2 |\n| Arme minimum | Beretta |",
-      "editedBy": "Staff Meetaverse",
-      "editedAt": "2026-11-11T22:00:00.000Z"
-    },
-    {
-      "id": "pacific",
-      "group": "Braquages",
-      "icon": "savings",
-      "title": "Pacific",
-      "body": "| Otages max | 10 |\n| Membres min dans la banque | 6 |\n| Membres max dans la banque | 8 |\n| Véhicules max | 4 |\n| Arme minimum | Beretta |",
-      "editedBy": "Staff Meetaverse",
-      "editedAt": "2026-11-11T22:00:00.000Z"
-    },
-    {
-      "id": "superette",
-      "group": "Braquages",
-      "icon": "storefront",
-      "title": "Supérette",
-      "body": "! Pas de policier à la fin du braquage ? Attendre **5 minutes minimum** sur place.\n\n| Membres | Illimité |\n| Véhicules max | 1 |\n| Arme minimum | Arme blanche |",
-      "editedBy": "Staff Meetaverse",
-      "editedAt": "2026-11-11T22:00:00.000Z"
-    },
-    {
-      "id": "conteneur",
-      "group": "Braquages",
-      "icon": "deployed_code",
-      "title": "Conteneur",
-      "body": "! Pas de policier à la fin du braquage ? Attendre **3 minutes minimum** sur place.\n\n| Membres | Illimité |\n| Véhicules max | 1 |",
-      "editedBy": "Staff Meetaverse",
-      "editedAt": "2026-11-11T22:00:00.000Z"
-    },
-    {
-      "id": "loot",
-      "group": "Loot et otages",
-      "icon": "back_hand",
-      "title": "Loot et prise d'otage",
-      "body": "| Loot maximum | 50 % |\n\n- Une **raison valable** est obligatoire pour looter ou prendre en otage.\n- Looter les services (police, EMS, etc.) : interdit\n- Appels d'entreprise pour les braquages : interdit",
-      "editedBy": "Staff Meetaverse",
-      "editedAt": "2026-11-11T22:00:00.000Z"
+      "editedAt": "2026-11-11T23:40:00.000Z"
     }
   ]
 }
