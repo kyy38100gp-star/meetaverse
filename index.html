@@ -464,8 +464,7 @@ function render(){
       el.innerHTML =
         '<div class="secbtns"><button class="ib" data-a="up" title="Monter"><span class="ms">arrow_upward</span></button><button class="ib" data-a="down" title="Descendre"><span class="ms">arrow_downward</span></button><button class="ib" data-a="edit" title="Modifier"><span class="ms">edit</span></button></div>' +
         '<div class="stitle"><div class="sicon"><span class="ms">'+esc(s.icon||"gavel")+'</span></div><h3>'+esc(s.title)+'</h3></div>' +
-        '<div class="sbody">'+html+'</div>' +
-        '<div class="edited"><span class="ms">edit_calendar</span><span>Modifié par <b>'+esc(s.editedBy||"Staff")+'</b> le '+esc(fmtDate(s.editedAt))+'</span></div>';
+        '<div class="sbody">'+html+'</div>';
       el.querySelectorAll(".secbtns button").forEach(b=>b.onclick=()=>secAction(b.dataset.a,i));
       grid.appendChild(el);
     });
