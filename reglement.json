@@ -1,7 +1,12 @@
 {
   "editedBy": "NI",
-  "editedAt": "2026-11-12T14:16:45.948Z",
+  "editedAt": "2026-11-12T14:18:42.346Z",
   "history": [
+    {
+      "by": "NI",
+      "at": "2026-11-12T14:18:42.346Z",
+      "what": "a modifié « Véhicules en braquage »"
+    },
     {
       "by": "NI",
       "at": "2026-11-12T14:16:45.948Z",
@@ -152,9 +157,9 @@
       "group": "Braquages",
       "icon": "two_wheeler",
       "title": "Véhicules en braquage",
-      "body": "- **Interdit** de braquer (Fleeca, LTD, Bijouterie, etc.) en moto, quad, scooter, buggy ou hélicoptère.\n- **Interdit** de faire un LTD, un ATM, un cambriolage ou une vente de drogue en supersportive : adapte ton véhicule aux petits braquages (voir la liste dans Fuite et poursuites).\n- Conteneur : **1 véhicule maximum**.",
-      "editedBy": "Staff Meetaverse",
-      "editedAt": "2026-11-11T23:40:00.000Z"
+      "body": "- Les braquages (Fleeca, LTD, Bijouterie, etc.) doivent obligatoirement être effectués avec un véhicule autorisé. L'utilisation de motos, quads, scooters, buggys ou hélicoptères est strictement interdite.\n- L'utilisation de véhicules supersportifs est interdite pour les petits braquages (LTD, ATM, cambriolages) ainsi que pour les ventes de drogues. Vous devez obligatoirement utiliser un véhicule adapté à ce type d'activité, conformément à la liste autorisée dans la section « Fuites et poursuites ».\n- Conteneur : **1 véhicule maximum**.",
+      "editedBy": "NI",
+      "editedAt": "2026-11-12T14:18:42.346Z"
     },
     {
       "id": "services",
