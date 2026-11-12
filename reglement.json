@@ -1,7 +1,12 @@
 {
   "editedBy": "NI",
-  "editedAt": "2026-11-12T14:47:18.958Z",
+  "editedAt": "2026-11-12T14:57:34.095Z",
   "history": [
+    {
+      "by": "NI",
+      "at": "2026-11-12T14:57:34.095Z",
+      "what": "a modifié « Plan pneu »"
+    },
     {
       "by": "NI",
       "at": "2026-11-12T14:47:18.958Z",
@@ -262,9 +267,9 @@
       "group": "Fuite et poursuites",
       "icon": "tire_repair",
       "title": "Plan pneu",
-      "body": "| Plan mule ou récup avant | Obligatoire |\n| Poursuite minimum | 10 min |\n| Véhicules de police derrière | 2 minimum |\n| Participants (conducteur compris) | 3 maximum |\n\n! Le plan pneu est ton **tout dernier recours**. Tout abus peut mener à une mort RP ou un ban.",
-      "editedBy": "Staff Meetaverse",
-      "editedAt": "2026-11-11T23:40:00.000Z"
+      "body": "- Préparation d'un plan mule ou d'un véhicule de récupération\tObligatoire\n- Durée minimale de poursuite\t10 minutes\n- Nombre minimum de véhicules de police engagés\t3 véhicules\n- Nombre maximum de participants (conducteur inclus)\t4 personnes",
+      "editedBy": "NI",
+      "editedAt": "2026-11-12T14:57:34.095Z"
     },
     {
       "id": "plans_fuite",
