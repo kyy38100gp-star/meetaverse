@@ -1,7 +1,12 @@
 {
   "editedBy": "NI",
-  "editedAt": "2026-11-12T14:24:16.604Z",
+  "editedAt": "2026-11-12T14:26:37.727Z",
   "history": [
+    {
+      "by": "NI",
+      "at": "2026-11-12T14:26:37.727Z",
+      "what": "a modifié « Guerres entre groupes »"
+    },
     {
       "by": "NI",
       "at": "2026-11-12T14:24:16.604Z",
@@ -105,9 +110,9 @@
       "group": "Règles générales",
       "icon": "swords",
       "title": "Guerres entre groupes",
-      "body": "- Chaque guerre doit reposer sur de **vraies raisons RP**. Les abus peuvent mener à de lourdes sanctions (mort RP, wipe du projet).\n- Quand un groupe prend clairement le dessus, il doit **proposer une offre fairplay** à l'adversaire pour arrêter la guerre.\n! Si l'adversaire refuse par ego, le staff intervient (wipe du projet ou conséquence RP).",
-      "editedBy": "Staff Meetaverse",
-      "editedAt": "2026-11-11T23:40:00.000Z"
+      "body": "- Toute guerre doit être justifiée par un contexte RP solide et des motifs cohérents. Tout abus ou déclenchement injustifié pourra entraîner de lourdes sanctions, pouvant aller jusqu'à la mort RP ou au wipe de l'organisation.\nLorsqu'un groupe prend nettement l'avantage sur son adversaire, il doit obligatoirement lui proposer une issue fair-play afin de mettre fin au conflit.\nEn cas de refus injustifié motivé uniquement par l'ego, le staff pourra intervenir et appliquer des sanctions adaptées (conséquences RP, pouvant aller jusqu'au wipe du projet).",
+      "editedBy": "NI",
+      "editedAt": "2026-11-12T14:26:37.727Z"
     },
     {
       "id": "police",
