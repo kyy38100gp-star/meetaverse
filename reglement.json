@@ -1,7 +1,12 @@
 {
   "editedBy": "NI",
-  "editedAt": "2026-11-12T14:19:29.124Z",
+  "editedAt": "2026-11-12T14:22:03.811Z",
   "history": [
+    {
+      "by": "NI",
+      "at": "2026-11-12T14:22:03.811Z",
+      "what": "a modifié « Amendes et taxes »"
+    },
     {
       "by": "NI",
       "at": "2026-11-12T14:19:29.124Z",
@@ -72,9 +77,9 @@
       "group": "Règles générales",
       "icon": "payments",
       "title": "Amendes et taxes",
-      "body": "| Amende maximum | 50 000 $ |\n| Au delà de 25 000 $ | Raison sérieuse obligatoire |\n\n- Toute amende doit être **cohérente et justifiée**. Sans bonne raison, la taxe est annulée.\n- Seuls les **organisations indépendantes** et les **groupes officiels** peuvent demander, via leur liaison, à dépasser 50 000 $, et uniquement pour une très grosse raison.",
-      "editedBy": "Staff Meetaverse",
-      "editedAt": "2026-11-11T23:40:00.000Z"
+      "body": "| Amende maximum | 50 000 $ |\n| Au delà de 25 000 $ | Raison sérieuse obligatoire |\n\n- Toute amende doit être justifiée et proportionnelle à la situation. Toute sanction injustifiée ou sans motif valable pourra être annulée.\n- Seules les organisations indépendantes et les groupes officiels sont autorisés à demander, par l'intermédiaire de leur liaison, un dépassement du plafond de 50 000 $. Cette demande doit être exceptionnelle et obligatoirement justifiée par un motif majeur.",
+      "editedBy": "NI",
+      "editedAt": "2026-11-12T14:22:03.811Z"
     },
     {
       "id": "sequestration",
