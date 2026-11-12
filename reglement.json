@@ -1,7 +1,12 @@
 {
   "editedBy": "NI",
-  "editedAt": "2026-11-12T14:11:49.956Z",
+  "editedAt": "2026-11-12T14:13:48.972Z",
   "history": [
+    {
+      "by": "NI",
+      "at": "2026-11-12T14:13:48.972Z",
+      "what": "a modifié « Vols et loot »"
+    },
     {
       "by": "NI",
       "at": "2026-11-12T14:11:49.956Z",
@@ -106,9 +111,9 @@
       "group": "Vols et arnaques",
       "icon": "back_hand",
       "title": "Vols et loot",
-      "body": "| Loot maximum | 50 % |\n| Voler une arme | Interdit (sauf dans un coffre de véhicule) |\n\n- **Interdit** de prendre quoi que ce soit sans raison RP valable.\n- Tout véhicule abandonné hors zone safe peut être fouillé. Les objets dérobés dans un coffre ne seront **jamais remboursés**. Pensez à verrouiller votre véhicule pour éviter les vols\n- **Interdit** de vider un coffre si un joueur est caché dedans : c'est du freeloot.\n- **Interdit** de voler le matériel de service des services publics (police, EMS, etc.).\n- **Interdit** de forcer un citoyen à sortir l'argent de son coffre, de son compte bancaire ou de son appartement.\n- Un téléphone volé doit être **rendu** à la fin de la scène.",
+      "body": "| Loot maximum | 50 % |\n| Voler une arme | Interdit (sauf dans un coffre de véhicule) |\n\n- **Interdit** de prendre quoi que ce soit sans raison RP valable.\n- Tout véhicule abandonné hors zone safe peut être fouillé. Les objets dérobés dans un coffre ne seront **jamais remboursés**. Pensez à verrouiller votre véhicule pour éviter les vols\n-Il est strictement interdit de fouiller le coffre d'un véhicule lorsqu'un joueur se trouve caché à l'intérieur (freeloot).\n-Le vol de matériel appartenant aux services publics (Police, EMS, etc.) est interdit.\n-Il est interdit de contraindre un citoyen à retirer de l'argent de son coffre, de son compte bancaire ou de son appartement.\n-Tout téléphone dérobé doit obligatoirement être restitué à son propriétaire à la fin de la scène.",
       "editedBy": "NI",
-      "editedAt": "2026-11-12T14:11:49.956Z"
+      "editedAt": "2026-11-12T14:13:48.972Z"
     },
     {
       "id": "arnaques",
