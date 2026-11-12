@@ -1,7 +1,12 @@
 {
   "editedBy": "NI",
-  "editedAt": "2026-11-12T14:32:44.889Z",
+  "editedAt": "2026-11-12T14:37:10.598Z",
   "history": [
+    {
+      "by": "NI",
+      "at": "2026-11-12T14:37:10.598Z",
+      "what": "a modifié « Vols et loot »"
+    },
     {
       "by": "NI",
       "at": "2026-11-12T14:32:44.889Z",
@@ -141,9 +146,9 @@
       "group": "Vols et arnaques",
       "icon": "back_hand",
       "title": "Vols et loot",
-      "body": "| Loot maximum | 50 % |\n| Voler une arme | Interdit (sauf dans un coffre de véhicule) |\n\n- **Interdit** de prendre quoi que ce soit sans raison RP valable.\n- Tout véhicule abandonné hors zone safe peut être fouillé. Les objets dérobés dans un coffre ne seront **jamais remboursés**. Pensez à verrouiller votre véhicule pour éviter les vols\n-Il est strictement interdit de fouiller le coffre d'un véhicule lorsqu'un joueur se trouve caché à l'intérieur (freeloot).\n-Le vol de matériel appartenant aux services publics (Police, EMS, etc.) est interdit.\n-Il est interdit de contraindre un citoyen à retirer de l'argent de son coffre, de son compte bancaire ou de son appartement.\n-Tout téléphone dérobé doit obligatoirement être restitué à son propriétaire à la fin de la scène.",
+      "body": "| Loot maximum | 50 % |\n| Vol de matériel ou d'armes | Interdit, sauf dans le coffre d'un véhicule |\n\nTout vol doit être justifié par un contexte RP cohérent. Il est interdit de dérober des biens sans motif valable.\nLes véhicules abandonnés hors zone safe peuvent être fouillés. Les objets volés dans les coffres ne feront l'objet d'aucun remboursement. Pensez à verrouiller vos véhicules pour éviter les vols.\nIl est strictement interdit de fouiller le coffre d'un véhicule lorsqu'un joueur est caché à l'intérieur (freeloot).\nLe vol d'équipements appartenant aux services publics (Police, EMS, etc.) est formellement interdit.\nIl est interdit de forcer un citoyen à retirer de l'argent de son coffre, de son compte bancaire ou de son appartement.\nTout téléphone volé doit être restitué à son propriétaire à la fin de la scène RP.",
       "editedBy": "NI",
-      "editedAt": "2026-11-12T14:13:48.972Z"
+      "editedAt": "2026-11-12T14:37:10.598Z"
     },
     {
       "id": "arnaques",
