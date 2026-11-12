@@ -1,7 +1,12 @@
 {
   "editedBy": "NI",
-  "editedAt": "2026-11-12T14:57:48.349Z",
+  "editedAt": "2026-11-12T16:58:37.752Z",
   "history": [
+    {
+      "by": "NI",
+      "at": "2026-11-12T16:58:37.752Z",
+      "what": "a modifié « Véhicules interdits (petits délits) »"
+    },
     {
       "by": "NI",
       "at": "2026-11-12T14:57:48.349Z",
@@ -290,9 +295,9 @@
       "group": "Fuite et poursuites",
       "icon": "no_crash",
       "title": "Véhicules interdits (petits délits)",
-      "body": "Ces véhicules sont trop puissants pour les petits délits : **interdits** pour conteneurs, LTD, ATM, cambriolages et ventes de drogue. Ils restent autorisés pour l'illégal de plus grande envergure.\n\n## Super\nAdder, Autarch, Banshee 900R, Bullet, Cheetah, Cyclone, Emerus, Entity XF, Entity XXR, ETR 1, FMJ, Furia, GP1, Infernus, Itali GTB, Itali GTB Custom, Itali GTO, Itali RSX, Krieger, Nero, Nero Custom, Osiris, Penetrator, Pfister 811, Re 7B, Reaper, SC 1, Sultan RS, T20, Taipan, Tempesta, Tezeract, Thrax, Tigon, Turismo R, Tyrant, Tyrus, Vacca, Vagner, Visione, Voltic, X80 Proto, XA 21, Zeno, Zentorno, Zorrusso.\n\n## Sports Classics\nChampion, Comet S2 Cabrio, Benefactor LM87, Deveste, Entity MT, Infernus Classic, S80RR, Suzume, Torero, Torero XO, Turismo Classic, Turismo Omaggio, Virtue, X treme.\n\n## Sports\n300R, Banshee GTS, Benefactor SM722, Comet S2, Comet Safari, Comet SR, Coquette V10, Corsita, Coureur, Envisage, Growler, Imorgon, Issi Sport, Itali GTO Stinger TT, Jester RR, Jester RR Drift, Jester RR Widebody, Jugular, Komoda, Locust, Neo, Neon, Obey 10F, Obey 10F Widebody, Panthere, Paragon R, Paragon S, Raiden, Rapid GT X, Revolter, Ruston, Schlagen, Sentinel GTS, Vectre, V STR.\n\n## Sedans, Muscle et SUV\nDeity, Vigero ZX, Vigero ZX Convertible, Buffalo EVX, Dominator GT, Dominator GT Drift, Toros, Astron, Rebla GTS, Jubilee.\n\n## Boutique\nNexus RR, Comet S2R, Comet S2R CA, Sultan RSX, Pegassi Concept, Sentinel GTS, Benefactor Eisen, Benefactor Blitz, BF Club 8R.",
-      "editedBy": "Staff Meetaverse",
-      "editedAt": "2026-11-11T23:40:00.000Z"
+      "body": "Ces véhicules sont trop puissants pour les petits délits : **interdits** pour conteneurs, LTD, ATM, cambriolages et ventes de drogue. Ils restent autorisés pour l'illégal de plus grande envergure.\n\n## Super\nAdder, Autarch, Banshee 900R, Bullet, Cheetah, Cyclone, Emerus, Entity XF, Entity XXR, ETR 1, FMJ, Furia, GP1, Infernus, Itali GTB, Itali GTB Custom, Itali GTO, Itali RSX, Krieger, Nero, Nero Custom, Osiris, Penetrator, Pfister 811, Re 7B, Reaper, SC 1, Sultan RS, T20, Taipan, Tempesta, Tezeract, Thrax, Tigon, Turismo R, Tyrant, Tyrus, Vacca, Vagner, Visione, Voltic, X80 Proto, XA 21, Zeno, Zentorno, Zorrusso.\n\n## Sports Classics\nChampion, Comet S2 Cabrio, Benefactor LM87, Deveste, Entity MT, Infernus Classic, S80RR, Torero, Torero XO, Turismo Classic, Turismo Omaggio, Virtue .\n\n## Sports\n300R, Benefactor SM722, Comet S2, Comet Safari, Comet SR, Coquette V10, Corsita, Coureuse,Growler, Imorgon, Issi Sport, Itali GTO Stinger TT, Jester RR, Jester RR Drift, Jester RR Widebody, Jugular, Komoda, Locust, Neo, Neon, Obey 10F, Panthere, Paragon R, Raiden, Rapid GT X, Revolter, Ruston, Schlagen, Vectre, V STR.\n\n## Sedans, Muscle et SUV\nDeity, Vigero ZX, Vigero ZX Convertible, Buffalo EVX, Dominator GT, Dominator GT Drift, Toros, Astron, Rebla GTS, Jubilee.\n\n## Boutique\nObey Argento, Ubermatch Sentinel SG4, Ubermatch Cyphart, Ubermatch Sentinel T, Ubermatch UMT, Obey QSR8, Ocelot Jugular E , Maibatsu Sunrise ",
+      "editedBy": "NI",
+      "editedAt": "2026-11-12T16:58:37.752Z"
     },
     {
       "id": "drogues",
