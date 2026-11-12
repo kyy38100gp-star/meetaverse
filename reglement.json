@@ -1,7 +1,12 @@
 {
   "editedBy": "NI",
-  "editedAt": "2026-11-12T14:39:22.252Z",
+  "editedAt": "2026-11-12T14:40:06.902Z",
   "history": [
+    {
+      "by": "NI",
+      "at": "2026-11-12T14:40:06.902Z",
+      "what": "a modifié « Ventes et zones »"
+    },
     {
       "by": "NI",
       "at": "2026-11-12T14:39:22.252Z",
@@ -160,9 +165,9 @@
       "group": "Vols et arnaques",
       "icon": "sell",
       "title": "Ventes et zones",
-      "body": "Il est interdit de revendre un véhicule à un prix abusif ou injustifié. Le prix de vente doit rester cohérent avec son prix d'achat et les éventuelles améliorations apportées.\nIl est interdit de dépouiller un joueur au nom d'un territoire que vous ne possédez pas officiellement via le système d'achat de zones de vente (Gestion de votre tablette crew).\nTout individu vendant sur votre territoire peut être braqué et chassé, mais ne peut pas être dépouillé lors de la première intervention. En cas de retour sur le territoire, une seconde intervention autorise le dépouillement.",
+      "body": "Il est interdit de dépouiller un joueur au nom d'un territoire que vous ne possédez pas officiellement via le système d'achat de zones de vente (Gestion de votre tablette crew).\nTout individu vendant sur votre territoire peut être braqué et chassé, mais ne peut pas être dépouillé lors de la première intervention. En cas de retour sur le territoire, une seconde intervention autorise le dépouillement.\nIl est interdit de revendre un véhicule à un prix abusif ou injustifié. Le prix de vente doit rester cohérent avec son prix d'achat et les éventuelles améliorations apportées.",
       "editedBy": "NI",
-      "editedAt": "2026-11-12T14:39:22.252Z"
+      "editedAt": "2026-11-12T14:40:06.902Z"
     },
     {
       "id": "braquages_regles",
