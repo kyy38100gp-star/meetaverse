@@ -1,7 +1,12 @@
 {
   "editedBy": "NI",
-  "editedAt": "2026-11-12T14:37:10.598Z",
+  "editedAt": "2026-11-12T14:39:22.252Z",
   "history": [
+    {
+      "by": "NI",
+      "at": "2026-11-12T14:39:22.252Z",
+      "what": "a modifié « Ventes et zones »"
+    },
     {
       "by": "NI",
       "at": "2026-11-12T14:37:10.598Z",
@@ -155,9 +160,9 @@
       "group": "Vols et arnaques",
       "icon": "sell",
       "title": "Ventes et zones",
-      "body": "- **Interdit** de vendre son véhicule à un prix injustifié : le prix doit suivre le prix d'achat et les améliorations.\n- **Interdit** de loot un joueur au nom d'une zone que tu n'as pas achetée via le système de zone de vente (F7).\n- Quelqu'un qui vend dans ta zone peut être braqué et chassé, mais **pas dépouillé**. S'il revient une deuxième fois, tu peux le dépouiller.",
-      "editedBy": "Staff Meetaverse",
-      "editedAt": "2026-11-11T23:40:00.000Z"
+      "body": "Il est interdit de revendre un véhicule à un prix abusif ou injustifié. Le prix de vente doit rester cohérent avec son prix d'achat et les éventuelles améliorations apportées.\nIl est interdit de dépouiller un joueur au nom d'un territoire que vous ne possédez pas officiellement via le système d'achat de zones de vente (Gestion de votre tablette crew).\nTout individu vendant sur votre territoire peut être braqué et chassé, mais ne peut pas être dépouillé lors de la première intervention. En cas de retour sur le territoire, une seconde intervention autorise le dépouillement.",
+      "editedBy": "NI",
+      "editedAt": "2026-11-12T14:39:22.252Z"
     },
     {
       "id": "braquages_regles",
