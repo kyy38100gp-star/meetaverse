@@ -1,7 +1,12 @@
 {
   "editedBy": "NI",
-  "editedAt": "2026-11-12T14:13:48.972Z",
+  "editedAt": "2026-11-12T14:16:45.948Z",
   "history": [
+    {
+      "by": "NI",
+      "at": "2026-11-12T14:16:45.948Z",
+      "what": "a modifié « Attente de la police »"
+    },
     {
       "by": "NI",
       "at": "2026-11-12T14:13:48.972Z",
@@ -138,9 +143,9 @@
       "group": "Braquages",
       "icon": "timer",
       "title": "Attente de la police",
-      "body": "| Supérette / Armurerie | 7 min |\n| Fleeca / Bijouterie | 10 min |\n| ATM réussi | 7 min |\n| Conteneur | 5 min |\n| Plateforme / Human Labs | 25 min |\n\n- Un **ATM raté** : tu peux fuir directement.\n- Plateforme pétrolière et Human Labs : les 25 minutes comptent **à partir du lancement**, et la fuite à la nage ou en plongée y est interdite.",
-      "editedBy": "Staff Meetaverse",
-      "editedAt": "2026-11-11T23:40:00.000Z"
+      "body": "| Supérette | 5 min |\n| Fleeca / Bijouterie | 10 min |\n| ATM réussi | 5 min |\n| Conteneur | 5 min |\n\n\n- En cas d'échec lors d'un braquage de distributeur (ATM), vous êtes autorisé à prendre la fuite immédiatement.\n",
+      "editedBy": "NI",
+      "editedAt": "2026-11-12T14:16:45.948Z"
     },
     {
       "id": "braquages_vehicules",
