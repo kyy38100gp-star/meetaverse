@@ -1,7 +1,12 @@
 {
   "editedBy": "NI",
-  "editedAt": "2026-11-12T14:22:32.042Z",
+  "editedAt": "2026-11-12T14:24:16.604Z",
   "history": [
+    {
+      "by": "NI",
+      "at": "2026-11-12T14:24:16.604Z",
+      "what": "a modifié « Séquestration »"
+    },
     {
       "by": "NI",
       "at": "2026-11-12T14:22:32.042Z",
@@ -91,9 +96,9 @@
       "group": "Règles générales",
       "icon": "lock",
       "title": "Séquestration",
-      "body": "| Durée maximum | 1 h (plus avec accord staff) |\n| Au delà de 25 min | Grosse raison RP obligatoire |\n\n- **Interdit** d'abandonner un joueur ou de l'écarter du RP en le laissant seul.\n- Si tu retiens quelqu'un, c'est pour **créer du jeu** avec lui (interrogatoire, torture RP, négociation), pas pour le faire attendre sans but.",
-      "editedBy": "Staff Meetaverse",
-      "editedAt": "2026-11-11T23:40:00.000Z"
+      "body": "| Durée maximale autorisée | 45 minutes (prolongation possible avec validation du staff) |\n| Au-delà de 25 minutes | Motif RP sérieux et justification obligatoire |\n\n- Il est interdit de délaisser un joueur ou de l'exclure volontairement de la scène RP en le laissant seul sans interaction.\n- Toute prise d'otage doit avoir pour objectif de faire évoluer le RP (interrogatoire, torture RP, négociation, etc.). Il est interdit de retenir un joueur sans interaction ni véritable intérêt scénaristique.",
+      "editedBy": "NI",
+      "editedAt": "2026-11-12T14:24:16.604Z"
     },
     {
       "id": "guerres",
