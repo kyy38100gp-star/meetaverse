@@ -1,7 +1,12 @@
 {
   "editedBy": "NI",
-  "editedAt": "2026-11-12T14:46:22.858Z",
+  "editedAt": "2026-11-12T14:47:18.958Z",
   "history": [
+    {
+      "by": "NI",
+      "at": "2026-11-12T14:47:18.958Z",
+      "what": "a modifié « Règles des prises d'otage »"
+    },
     {
       "by": "NI",
       "at": "2026-11-12T14:46:22.858Z",
@@ -230,9 +235,9 @@
       "group": "Prises d'otage",
       "icon": "person_alert",
       "title": "Règles des prises d'otage",
-      "body": "- Il faut une **bonne raison** pour prendre en otage un policier ou un EMS.\n- **Interdit** de prendre un faux otage complice, sauf accord staff.\n- **Interdit** de prendre en otage un vendeur (24/7, LTD) sur son lieu de travail ou à moins de 50 m environ, sauf pour braquer ce commerce.\n- Délai maximum avant de **lancer** le braquage : **15 minutes** (être dans la banque ne compte pas). Passé ce délai, tu relâches les otages.\n> Plus de 8 otages : autorisation staff obligatoire (sous dossier).",
-      "editedBy": "Staff Meetaverse",
-      "editedAt": "2026-11-11T23:40:00.000Z"
+      "body": "La prise en otage d'un membre des forces de l'ordre ou du personnel EMS doit obligatoirement être justifiée par un motif RP sérieux.\n- Il est strictement interdit d'utiliser un faux otage complice, sauf autorisation préalable du staff.\n- Il est interdit de prendre en otage un vendeur (24/7, LTD, etc.) sur son lieu de travail ou dans un périmètre d'environ 50 mètres, sauf dans le cadre d'un braquage de son commerce.\n- Le braquage doit obligatoirement être lancé dans un délai maximum de 15 minutes. Le simple fait d'être présent à l'intérieur de la banque ne constitue pas un lancement. Passé ce délai, les otages doivent être libérés.\n- Au-delà de 8 otages, une autorisation préalable du staff est obligatoire, avec dépôt d'un dossier.",
+      "editedBy": "NI",
+      "editedAt": "2026-11-12T14:47:18.958Z"
     },
     {
       "id": "otages_nombre",
