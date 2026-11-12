@@ -1,7 +1,12 @@
 {
   "editedBy": "NI",
-  "editedAt": "2026-11-12T14:40:37.474Z",
+  "editedAt": "2026-11-12T14:43:58.410Z",
   "history": [
+    {
+      "by": "NI",
+      "at": "2026-11-12T14:43:58.410Z",
+      "what": "a modifié « Règles des braquages »"
+    },
     {
       "by": "NI",
       "at": "2026-11-12T14:40:37.474Z",
@@ -179,9 +184,9 @@
       "group": "Braquages",
       "icon": "gpp_maybe",
       "title": "Règles des braquages",
-      "body": "| Braquer seul | Interdit |\n| Moyenne envergure (Fleeca, Bijouterie) | 2 braqueurs min |\n| Haute envergure (Roxwood, Human Labs, Plateforme, Pacific) | 5 braqueurs min |\n| Fleeca | 1 braquage toutes les 5 h par joueur |\n\n- Entre braqueurs, des **sommations orales** sont obligatoires avant de tirer.\n- **Interdit** de contre braquer des joueurs en plein braquage.\n- **Interdit** de braquer juste pour enchaîner des braquages minute : il faut de bonnes raisons.\n- **Interdit** d'enchaîner les braquages au même endroit (ex : attendre sur le point go fast). Tu en fais un, puis tu pars.\n- **Interdit** de camper une Fleeca en attendant le cooldown : 5 minutes de tolérance, ensuite tu libères la zone.\n! Utiliser l'unité X pendant un braquage en cours (Human Labs, Plateforme, Pacific, etc.) entraîne un **wipe et 2 mois de ban illégal**.",
-      "editedBy": "Staff Meetaverse",
-      "editedAt": "2026-11-11T23:40:00.000Z"
+      "body": "| Braquer seul | Interdit |\n| Moyenne envergure (Fleeca, Bijouterie) | 2 braqueurs min |\n| Haute envergure (Pacific) | 6 braqueurs min |\n| Fleeca | 1 braquage toutes les 3 h par joueur |\n\nLors d'un affrontement entre braqueurs, des sommations orales claires doivent obligatoirement être effectuées avant toute ouverture du feu.\n\n\n\nIl est strictement interdit d'intervenir pour contre-braquer des joueurs pendant qu'un braquage est déjà en cours.\n\nLes braquages ne doivent pas être effectués dans le seul but de les enchaîner rapidement. Chaque action doit reposer sur un contexte et des motivations RP valables.\nIl est interdit d'enchaîner plusieurs braquages sur un même point. Après avoir réalisé un braquage, vous devez obligatoirement quitter les lieux.\nIl est interdit de camper devant une Fleeca dans l'attente de la fin du cooldown. Une tolérance de 5 minutes est accordée, après quoi la zone doit impérativement être libérée.\nToute utilisation de l'unité X pendant un braquage en cours (Fleeca, Pacific Bank, etc.) entraînera un wipe du projet ainsi qu'une blacklist de l'illégal.",
+      "editedBy": "NI",
+      "editedAt": "2026-11-12T14:43:58.410Z"
     },
     {
       "id": "attente_police",
