@@ -1,7 +1,12 @@
 {
   "editedBy": "NI",
-  "editedAt": "2026-11-12T14:22:03.811Z",
+  "editedAt": "2026-11-12T14:22:32.042Z",
   "history": [
+    {
+      "by": "NI",
+      "at": "2026-11-12T14:22:32.042Z",
+      "what": "a modifié « Amendes et taxes »"
+    },
     {
       "by": "NI",
       "at": "2026-11-12T14:22:03.811Z",
@@ -77,9 +82,9 @@
       "group": "Règles générales",
       "icon": "payments",
       "title": "Amendes et taxes",
-      "body": "| Amende maximum | 50 000 $ |\n| Au delà de 25 000 $ | Raison sérieuse obligatoire |\n\n- Toute amende doit être justifiée et proportionnelle à la situation. Toute sanction injustifiée ou sans motif valable pourra être annulée.\n- Seules les organisations indépendantes et les groupes officiels sont autorisés à demander, par l'intermédiaire de leur liaison, un dépassement du plafond de 50 000 $. Cette demande doit être exceptionnelle et obligatoirement justifiée par un motif majeur.",
+      "body": "| Amende maximum | 50 000 $ |\n| Au-delà de 25 000 $ | Justification solide et motif valable obligatoires |\n\n- Toute amende doit être justifiée et proportionnelle à la situation. Toute sanction injustifiée ou sans motif valable pourra être annulée.\n- Seules les organisations indépendantes et les groupes officiels sont autorisés à demander, par l'intermédiaire de leur liaison, un dépassement du plafond de 50 000 $. Cette demande doit être exceptionnelle et obligatoirement justifiée par un motif majeur.",
       "editedBy": "NI",
-      "editedAt": "2026-11-12T14:22:03.811Z"
+      "editedAt": "2026-11-12T14:22:32.042Z"
     },
     {
       "id": "sequestration",
