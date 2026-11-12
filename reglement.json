@@ -1,7 +1,12 @@
 {
   "editedBy": "NI",
-  "editedAt": "2026-11-12T14:45:21.591Z",
+  "editedAt": "2026-11-12T14:46:22.858Z",
   "history": [
+    {
+      "by": "NI",
+      "at": "2026-11-12T14:46:22.858Z",
+      "what": "a modifié « Services publics »"
+    },
     {
       "by": "NI",
       "at": "2026-11-12T14:45:21.591Z",
@@ -216,9 +221,9 @@
       "group": "Braquages",
       "icon": "medical_services",
       "title": "Services publics",
-      "body": "Les services publics étant considérés comme des activités légales, il est strictement interdit de les braquer dans le but d'obtenir gratuitement des armes, des soins ou des réparations.\nIl est interdit d'utiliser un appel professionnel (métier ou entreprise) comme prétexte pour organiser un braquage.\nLes joueurs ne faisant partie d'aucune organisation ne sont pas autorisés à braquer les convois de police.\nLors d'une guerre économique ou d'un braquage de convoi (farm, matériaux), le prélèvement de la cargaison est limité à 50 % maximum.",
+      "body": "- Les services publics étant considérés comme des activités légales, il est strictement interdit de les braquer dans le but d'obtenir gratuitement des armes, des soins ou des réparations.\n- Il est interdit d'utiliser un appel professionnel (métier ou entreprise) comme prétexte pour organiser un braquage.\n- Les joueurs ne faisant partie d'aucune organisation ne sont pas autorisés à braquer les convois de police.\nLors d'une guerre économique ou d'un braquage de convoi (farm, matériaux), le prélèvement de la cargaison est limité à 50 % maximum.",
       "editedBy": "NI",
-      "editedAt": "2026-11-12T14:45:21.591Z"
+      "editedAt": "2026-11-12T14:46:22.858Z"
     },
     {
       "id": "otages_regles",
