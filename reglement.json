@@ -1,7 +1,12 @@
 {
   "editedBy": "NI",
-  "editedAt": "2026-11-12T14:43:58.410Z",
+  "editedAt": "2026-11-12T14:45:21.591Z",
   "history": [
+    {
+      "by": "NI",
+      "at": "2026-11-12T14:45:21.591Z",
+      "what": "a modifié « Services publics »"
+    },
     {
       "by": "NI",
       "at": "2026-11-12T14:43:58.410Z",
@@ -211,9 +216,9 @@
       "group": "Braquages",
       "icon": "medical_services",
       "title": "Services publics",
-      "body": "- Les services publics sont des métiers légaux : **interdit** de les braquer pour obtenir armes, soins ou réparations gratuits.\n- **Interdit** de passer un appel métier ou entreprise dans le but de braquer.\n- Les joueurs **sans organisation** n'ont pas le droit de braquer les convois de police.\n- Pendant une guerre économique ou un braquage de convoi (farm, matériaux), **50 % maximum** de la cargaison.",
-      "editedBy": "Staff Meetaverse",
-      "editedAt": "2026-11-11T23:40:00.000Z"
+      "body": "Les services publics étant considérés comme des activités légales, il est strictement interdit de les braquer dans le but d'obtenir gratuitement des armes, des soins ou des réparations.\nIl est interdit d'utiliser un appel professionnel (métier ou entreprise) comme prétexte pour organiser un braquage.\nLes joueurs ne faisant partie d'aucune organisation ne sont pas autorisés à braquer les convois de police.\nLors d'une guerre économique ou d'un braquage de convoi (farm, matériaux), le prélèvement de la cargaison est limité à 50 % maximum.",
+      "editedBy": "NI",
+      "editedAt": "2026-11-12T14:45:21.591Z"
     },
     {
       "id": "otages_regles",
