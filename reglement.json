@@ -1,21 +1,11 @@
 {
   "editedBy": "NI",
-  "editedAt": "2026-11-12T14:30:30.663Z",
+  "editedAt": "2026-11-12T14:32:44.889Z",
   "history": [
     {
       "by": "NI",
-      "at": "2026-11-12T14:30:30.663Z",
-      "what": "a modifié « SNS et braquages majeurs »"
-    },
-    {
-      "by": "NI",
-      "at": "2026-11-12T14:26:37.727Z",
-      "what": "a modifié « Guerres entre groupes »"
-    },
-    {
-      "by": "NI",
-      "at": "2026-11-12T14:24:16.604Z",
-      "what": "a modifié « Séquestration »"
+      "at": "2026-11-12T14:32:44.889Z",
+      "what": "a modifié « Blanchiment »"
     },
     {
       "by": "NI",
@@ -106,18 +96,18 @@
       "group": "Règles générales",
       "icon": "lock",
       "title": "Séquestration",
-      "body": "| Durée maximale autorisée | 45 minutes (prolongation possible avec validation du staff) |\n| Au-delà de 25 minutes | Motif RP sérieux et justification obligatoire |\n\n- Il est interdit de délaisser un joueur ou de l'exclure volontairement de la scène RP en le laissant seul sans interaction.\n- Toute prise d'otage doit avoir pour objectif de faire évoluer le RP (interrogatoire, torture RP, négociation, etc.). Il est interdit de retenir un joueur sans interaction ni véritable intérêt scénaristique.",
-      "editedBy": "NI",
-      "editedAt": "2026-11-12T14:24:16.604Z"
+      "body": "| Durée maximum | 1 h (plus avec accord staff) |\n| Au delà de 25 min | Grosse raison RP obligatoire |\n\n- **Interdit** d'abandonner un joueur ou de l'écarter du RP en le laissant seul.\n- Si tu retiens quelqu'un, c'est pour **créer du jeu** avec lui (interrogatoire, torture RP, négociation), pas pour le faire attendre sans but.",
+      "editedBy": "Staff Meetaverse",
+      "editedAt": "2026-11-11T23:40:00.000Z"
     },
     {
       "id": "guerres",
       "group": "Règles générales",
       "icon": "swords",
       "title": "Guerres entre groupes",
-      "body": "- Toute guerre doit être justifiée par un contexte RP solide et des motifs cohérents. Tout abus ou déclenchement injustifié pourra entraîner de lourdes sanctions, pouvant aller jusqu'à la mort RP ou au wipe de l'organisation.\nLorsqu'un groupe prend nettement l'avantage sur son adversaire, il doit obligatoirement lui proposer une issue fair-play afin de mettre fin au conflit.\nEn cas de refus injustifié motivé uniquement par l'ego, le staff pourra intervenir et appliquer des sanctions adaptées (conséquences RP, pouvant aller jusqu'au wipe du projet).",
-      "editedBy": "NI",
-      "editedAt": "2026-11-12T14:26:37.727Z"
+      "body": "- Chaque guerre doit reposer sur de **vraies raisons RP**. Les abus peuvent mener à de lourdes sanctions (mort RP, wipe du projet).\n- Quand un groupe prend clairement le dessus, il doit **proposer une offre fairplay** à l'adversaire pour arrêter la guerre.\n! Si l'adversaire refuse par ego, le staff intervient (wipe du projet ou conséquence RP).",
+      "editedBy": "Staff Meetaverse",
+      "editedAt": "2026-11-11T23:40:00.000Z"
     },
     {
       "id": "police",
@@ -133,18 +123,18 @@
       "group": "Règles générales",
       "icon": "target",
       "title": "SNS et braquages majeurs",
-      "body": "- L'utilisation d'armes inférieures au Beretta est strictement interdite lors des braquages majeurs : Fleeca, Bijouterie,Pacific Bank ainsi que tous les braquages soumis à validation d'un dossier staff.\n\n- Les armes de catégorie inférieure au Beretta sont autorisées pour les activités suivantes : LTD, armurerie, braquage de joueurs, prises d'otages hors braquage majeur, fusillades entre groupes, etc.",
-      "editedBy": "NI",
-      "editedAt": "2026-11-12T14:30:30.663Z"
+      "body": "! Le SNS est **interdit** pour les braquages majeurs : Fleeca, Bijouterie, Human Labs, plateforme pétrolière, Roxwood Pine Bank, Pacific Bank, Casino et braquages sous dossier staff.\n\n- Le SNS reste **autorisé** pour le reste : LTD, armurerie, braquage de joueurs, prise d'otage hors braquage majeur, fusillade contre un autre groupe, etc.",
+      "editedBy": "Staff Meetaverse",
+      "editedAt": "2026-11-11T23:40:00.000Z"
     },
     {
       "id": "blanchiment",
       "group": "Règles générales",
       "icon": "local_laundry_service",
       "title": "Blanchiment",
-      "body": "- **Interdiction** De camper le blanchiment que ce soit a l'extérieur ou a l'intérieur ",
+      "body": "- Il est strictement interdit de camper sur les points illégaux, notamment les zones de blanchiment, que ce soit à l'intérieur ou à l'extérieur des lieux concernés.",
       "editedBy": "NI",
-      "editedAt": "2026-11-11T22:45:08.420Z"
+      "editedAt": "2026-11-12T14:32:44.889Z"
     },
     {
       "id": "vols",
