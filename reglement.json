@@ -1,7 +1,12 @@
 {
   "editedBy": "NI",
-  "editedAt": "2026-11-12T14:26:37.727Z",
+  "editedAt": "2026-11-12T14:30:30.663Z",
   "history": [
+    {
+      "by": "NI",
+      "at": "2026-11-12T14:30:30.663Z",
+      "what": "a modifié « SNS et braquages majeurs »"
+    },
     {
       "by": "NI",
       "at": "2026-11-12T14:26:37.727Z",
@@ -128,9 +133,9 @@
       "group": "Règles générales",
       "icon": "target",
       "title": "SNS et braquages majeurs",
-      "body": "! Le SNS est **interdit** pour les braquages majeurs : Fleeca, Bijouterie, Human Labs, plateforme pétrolière, Roxwood Pine Bank, Pacific Bank, Casino et braquages sous dossier staff.\n\n- Le SNS reste **autorisé** pour le reste : LTD, armurerie, braquage de joueurs, prise d'otage hors braquage majeur, fusillade contre un autre groupe, etc.",
-      "editedBy": "Staff Meetaverse",
-      "editedAt": "2026-11-11T23:40:00.000Z"
+      "body": "- L'utilisation d'armes inférieures au Beretta est strictement interdite lors des braquages majeurs : Fleeca, Bijouterie,Pacific Bank ainsi que tous les braquages soumis à validation d'un dossier staff.\n\n- Les armes de catégorie inférieure au Beretta sont autorisées pour les activités suivantes : LTD, armurerie, braquage de joueurs, prises d'otages hors braquage majeur, fusillades entre groupes, etc.",
+      "editedBy": "NI",
+      "editedAt": "2026-11-12T14:30:30.663Z"
     },
     {
       "id": "blanchiment",
