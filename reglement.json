@@ -1,71 +1,11 @@
 {
   "editedBy": "NI",
-  "editedAt": "2026-11-12T17:15:47.111Z",
+  "editedAt": "2026-11-14T14:42:02.541Z",
   "history": [
     {
       "by": "NI",
-      "at": "2026-11-12T17:15:47.111Z",
-      "what": "a modifié « Véhicules interdits (petits délits) »"
-    },
-    {
-      "by": "NI",
-      "at": "2026-11-12T16:58:37.752Z",
-      "what": "a modifié « Véhicules interdits (petits délits) »"
-    },
-    {
-      "by": "NI",
-      "at": "2026-11-12T14:57:48.349Z",
-      "what": "a modifié « Plan pneu »"
-    },
-    {
-      "by": "NI",
-      "at": "2026-11-12T14:57:34.095Z",
-      "what": "a modifié « Plan pneu »"
-    },
-    {
-      "by": "NI",
-      "at": "2026-11-12T14:47:18.958Z",
-      "what": "a modifié « Règles des prises d'otage »"
-    },
-    {
-      "by": "NI",
-      "at": "2026-11-12T14:46:22.858Z",
-      "what": "a modifié « Services publics »"
-    },
-    {
-      "by": "NI",
-      "at": "2026-11-12T14:45:21.591Z",
-      "what": "a modifié « Services publics »"
-    },
-    {
-      "by": "NI",
-      "at": "2026-11-12T14:43:58.410Z",
-      "what": "a modifié « Règles des braquages »"
-    },
-    {
-      "by": "NI",
-      "at": "2026-11-12T14:40:37.474Z",
-      "what": "a modifié « Ventes et zones »"
-    },
-    {
-      "by": "NI",
-      "at": "2026-11-12T14:40:06.902Z",
-      "what": "a modifié « Ventes et zones »"
-    },
-    {
-      "by": "NI",
-      "at": "2026-11-12T14:39:22.252Z",
-      "what": "a modifié « Ventes et zones »"
-    },
-    {
-      "by": "NI",
-      "at": "2026-11-12T14:37:10.598Z",
-      "what": "a modifié « Vols et loot »"
-    },
-    {
-      "by": "NI",
-      "at": "2026-11-12T14:32:44.889Z",
-      "what": "a modifié « Blanchiment »"
+      "at": "2026-11-14T14:42:02.541Z",
+      "what": "a supprimé « Lexique illégal »"
     },
     {
       "by": "NI",
@@ -125,15 +65,6 @@
   ],
   "sections": [
     {
-      "id": "lexique",
-      "group": "Cadre RP",
-      "icon": "menu_book",
-      "title": "Lexique illégal",
-      "body": "! En jeu, le mot « offi » ou « officiel » est interdit et peut mener à un bannissement. Utilise le vocabulaire RP ci dessous.\n\n## Ta situation et ce que tu dis en RP\n- Civil qui fait de l'illégal → « Je suis une **petite frappe** »\n- Civil dans un groupe indépendant → « Je suis dans un **groupe indépendant** »\n- Civil dans une organisation indépendante → « Je suis dans une **organisation indépendante** »\n- Membre d'un gang → « Je fais partie d'un **gang** »\n- Membre d'une orga → « Je fais partie d'une **mafia**, d'une **famille**, d'un **cartel** ou d'une **organisation criminelle** »",
-      "editedBy": "Staff Meetaverse",
-      "editedAt": "2026-11-11T23:40:00.000Z"
-    },
-    {
       "id": "coherence",
       "group": "Cadre RP",
       "icon": "theater_comedy",
@@ -192,36 +123,36 @@
       "group": "Règles générales",
       "icon": "local_laundry_service",
       "title": "Blanchiment",
-      "body": "- Il est strictement interdit de camper sur les points illégaux, notamment les zones de blanchiment, que ce soit à l'intérieur ou à l'extérieur des lieux concernés.",
+      "body": "- **Interdiction** De camper le blanchiment que ce soit a l'extérieur ou a l'intérieur ",
       "editedBy": "NI",
-      "editedAt": "2026-11-12T14:32:44.889Z"
+      "editedAt": "2026-11-11T22:45:08.420Z"
     },
     {
       "id": "vols",
       "group": "Vols et arnaques",
       "icon": "back_hand",
       "title": "Vols et loot",
-      "body": "| Loot maximum | 50 % |\n| Vol de matériel ou d'armes | Interdit, sauf dans le coffre d'un véhicule |\n\nTout vol doit être justifié par un contexte RP cohérent. Il est interdit de dérober des biens sans motif valable.\nLes véhicules abandonnés hors zone safe peuvent être fouillés. Les objets volés dans les coffres ne feront l'objet d'aucun remboursement. Pensez à verrouiller vos véhicules pour éviter les vols.\nIl est strictement interdit de fouiller le coffre d'un véhicule lorsqu'un joueur est caché à l'intérieur (freeloot).\nLe vol d'équipements appartenant aux services publics (Police, EMS, etc.) est formellement interdit.\nIl est interdit de forcer un citoyen à retirer de l'argent de son coffre, de son compte bancaire ou de son appartement.\nTout téléphone volé doit être restitué à son propriétaire à la fin de la scène RP.",
+      "body": "| Loot maximum | 50 % |\n| Voler une arme | Interdit (sauf dans un coffre de véhicule) |\n\n- **Interdit** de prendre quoi que ce soit sans raison RP valable.\n- Tout véhicule abandonné hors zone safe peut être fouillé. Les objets dérobés dans un coffre ne seront **jamais remboursés**. Pensez à verrouiller votre véhicule pour éviter les vols\n-Il est strictement interdit de fouiller le coffre d'un véhicule lorsqu'un joueur se trouve caché à l'intérieur (freeloot).\n-Le vol de matériel appartenant aux services publics (Police, EMS, etc.) est interdit.\n-Il est interdit de contraindre un citoyen à retirer de l'argent de son coffre, de son compte bancaire ou de son appartement.\n-Tout téléphone dérobé doit obligatoirement être restitué à son propriétaire à la fin de la scène.",
       "editedBy": "NI",
-      "editedAt": "2026-11-12T14:37:10.598Z"
+      "editedAt": "2026-11-12T14:13:48.972Z"
     },
     {
       "id": "arnaques",
       "group": "Vols et arnaques",
       "icon": "sell",
       "title": "Ventes et zones",
-      "body": "Il est interdit de dépouiller un joueur au nom d'un territoire que vous ne possédez pas officiellement via le système d'achat de zones de vente (Gestion de votre tablette crew).\nTout individu vendant sur votre territoire peut être braqué et chassé, mais ne peut pas être dépouillé lors de la première intervention. En cas de retour sur le territoire, une seconde intervention autorise le dépouillement.\n",
-      "editedBy": "NI",
-      "editedAt": "2026-11-12T14:40:37.474Z"
+      "body": "- **Interdit** de vendre son véhicule à un prix injustifié : le prix doit suivre le prix d'achat et les améliorations.\n- **Interdit** de loot un joueur au nom d'une zone que tu n'as pas achetée via le système de zone de vente (F7).\n- Quelqu'un qui vend dans ta zone peut être braqué et chassé, mais **pas dépouillé**. S'il revient une deuxième fois, tu peux le dépouiller.",
+      "editedBy": "Staff Meetaverse",
+      "editedAt": "2026-11-11T23:40:00.000Z"
     },
     {
       "id": "braquages_regles",
       "group": "Braquages",
       "icon": "gpp_maybe",
       "title": "Règles des braquages",
-      "body": "| Braquer seul | Interdit |\n| Moyenne envergure (Fleeca, Bijouterie) | 2 braqueurs min |\n| Haute envergure (Pacific) | 6 braqueurs min |\n| Fleeca | 1 braquage toutes les 3 h par joueur |\n\nLors d'un affrontement entre braqueurs, des sommations orales claires doivent obligatoirement être effectuées avant toute ouverture du feu.\n\n\n\nIl est strictement interdit d'intervenir pour contre-braquer des joueurs pendant qu'un braquage est déjà en cours.\n\nLes braquages ne doivent pas être effectués dans le seul but de les enchaîner rapidement. Chaque action doit reposer sur un contexte et des motivations RP valables.\nIl est interdit d'enchaîner plusieurs braquages sur un même point. Après avoir réalisé un braquage, vous devez obligatoirement quitter les lieux.\nIl est interdit de camper devant une Fleeca dans l'attente de la fin du cooldown. Une tolérance de 5 minutes est accordée, après quoi la zone doit impérativement être libérée.\nToute utilisation de l'unité X pendant un braquage en cours (Fleeca, Pacific Bank, etc.) entraînera un wipe du projet ainsi qu'une blacklist de l'illégal.",
-      "editedBy": "NI",
-      "editedAt": "2026-11-12T14:43:58.410Z"
+      "body": "| Braquer seul | Interdit |\n| Moyenne envergure (Fleeca, Bijouterie) | 2 braqueurs min |\n| Haute envergure (Roxwood, Human Labs, Plateforme, Pacific) | 5 braqueurs min |\n| Fleeca | 1 braquage toutes les 5 h par joueur |\n\n- Entre braqueurs, des **sommations orales** sont obligatoires avant de tirer.\n- **Interdit** de contre braquer des joueurs en plein braquage.\n- **Interdit** de braquer juste pour enchaîner des braquages minute : il faut de bonnes raisons.\n- **Interdit** d'enchaîner les braquages au même endroit (ex : attendre sur le point go fast). Tu en fais un, puis tu pars.\n- **Interdit** de camper une Fleeca en attendant le cooldown : 5 minutes de tolérance, ensuite tu libères la zone.\n! Utiliser l'unité X pendant un braquage en cours (Human Labs, Plateforme, Pacific, etc.) entraîne un **wipe et 2 mois de ban illégal**.",
+      "editedBy": "Staff Meetaverse",
+      "editedAt": "2026-11-11T23:40:00.000Z"
     },
     {
       "id": "attente_police",
@@ -246,18 +177,18 @@
       "group": "Braquages",
       "icon": "medical_services",
       "title": "Services publics",
-      "body": "- Les services publics étant considérés comme des activités légales, il est strictement interdit de les braquer dans le but d'obtenir gratuitement des armes, des soins ou des réparations.\n- Il est interdit d'utiliser un appel professionnel (métier ou entreprise) comme prétexte pour organiser un braquage.\n- Les joueurs ne faisant partie d'aucune organisation ne sont pas autorisés à braquer les convois de police.\nLors d'une guerre économique ou d'un braquage de convoi (farm, matériaux), le prélèvement de la cargaison est limité à 50 % maximum.",
-      "editedBy": "NI",
-      "editedAt": "2026-11-12T14:46:22.858Z"
+      "body": "- Les services publics sont des métiers légaux : **interdit** de les braquer pour obtenir armes, soins ou réparations gratuits.\n- **Interdit** de passer un appel métier ou entreprise dans le but de braquer.\n- Les joueurs **sans organisation** n'ont pas le droit de braquer les convois de police.\n- Pendant une guerre économique ou un braquage de convoi (farm, matériaux), **50 % maximum** de la cargaison.",
+      "editedBy": "Staff Meetaverse",
+      "editedAt": "2026-11-11T23:40:00.000Z"
     },
     {
       "id": "otages_regles",
       "group": "Prises d'otage",
       "icon": "person_alert",
       "title": "Règles des prises d'otage",
-      "body": "La prise en otage d'un membre des forces de l'ordre ou du personnel EMS doit obligatoirement être justifiée par un motif RP sérieux.\n- Il est strictement interdit d'utiliser un faux otage complice, sauf autorisation préalable du staff.\n- Il est interdit de prendre en otage un vendeur (24/7, LTD, etc.) sur son lieu de travail ou dans un périmètre d'environ 50 mètres, sauf dans le cadre d'un braquage de son commerce.\n- Le braquage doit obligatoirement être lancé dans un délai maximum de 15 minutes. Le simple fait d'être présent à l'intérieur de la banque ne constitue pas un lancement. Passé ce délai, les otages doivent être libérés.\n- Au-delà de 8 otages, une autorisation préalable du staff est obligatoire, avec dépôt d'un dossier.",
-      "editedBy": "NI",
-      "editedAt": "2026-11-12T14:47:18.958Z"
+      "body": "- Il faut une **bonne raison** pour prendre en otage un policier ou un EMS.\n- **Interdit** de prendre un faux otage complice, sauf accord staff.\n- **Interdit** de prendre en otage un vendeur (24/7, LTD) sur son lieu de travail ou à moins de 50 m environ, sauf pour braquer ce commerce.\n- Délai maximum avant de **lancer** le braquage : **15 minutes** (être dans la banque ne compte pas). Passé ce délai, tu relâches les otages.\n> Plus de 8 otages : autorisation staff obligatoire (sous dossier).",
+      "editedBy": "Staff Meetaverse",
+      "editedAt": "2026-11-11T23:40:00.000Z"
     },
     {
       "id": "otages_nombre",
@@ -282,9 +213,9 @@
       "group": "Fuite et poursuites",
       "icon": "tire_repair",
       "title": "Plan pneu",
-      "body": "- Préparation d'un plan mule ou d'un véhicule de récupération\tObligatoire\n- Durée minimale de poursuite\t15 minutes\n- Nombre minimum de véhicules de police engagés\t3 véhicules\n- Nombre maximum de participants (conducteur inclus)\t4 personnes",
-      "editedBy": "NI",
-      "editedAt": "2026-11-12T14:57:48.349Z"
+      "body": "| Plan mule ou récup avant | Obligatoire |\n| Poursuite minimum | 10 min |\n| Véhicules de police derrière | 2 minimum |\n| Participants (conducteur compris) | 3 maximum |\n\n! Le plan pneu est ton **tout dernier recours**. Tout abus peut mener à une mort RP ou un ban.",
+      "editedBy": "Staff Meetaverse",
+      "editedAt": "2026-11-11T23:40:00.000Z"
     },
     {
       "id": "plans_fuite",
@@ -300,9 +231,9 @@
       "group": "Fuite et poursuites",
       "icon": "no_crash",
       "title": "Véhicules interdits (petits délits)",
-      "body": "les véhicules listés ci-dessous sont considérés comme trop performants pour les activités illégales de petite envergure. Leur utilisation est donc strictement interdite pour les conteneurs, LTD, ATM, et ventes de stupéfiants.\n\nIls restent toutefois autorisés pour les activités illégales de plus grande envergure, dans le respect des règles de poursuite.\n- Super\nZentorno, Krieger, Bullet, Itali GTO, T20, Vagner, Adder, Nero Custom, Emerus, Tempesta, X80 Proto, Turismo R, Entity XXR, Reaper, Zeno, Cyclone, Osiris, Tigon, FMJ, Autarch, Visione, Infernus, XA-21, Thrax, Vacca, GP1, Furia, Tezeract, Entity XF, Zorrusso, ETR 1, Nero, Itali GTB Custom, Voltic, Pfister 811, Tyrus, Taipan, Banshee 900R, SC 1, Itali RSX, Sultan RS, Penetrator, Cheetah, Re 7B, T20, Tyrant.\n- Sports Classics\nTorero XO, Infernus Classic, Turismo Classic, Champion, Torero, Benefactor LM87, Virtue, S80RR, Turismo Omaggio, Comet S2 Cabrio, Entity MT, Deveste.\n- Sports\nJester RR Widebody, Comet SR, Vectre, 300R, Growler, Schlagen, Itali GTO Stinger TT, Paragon R, Neo, Comet Safari, Coquette V10, Jugular, Obey 10F, Comet S2, Raiden, Corsita, Issi Sport, V STR, Jester RR Drift, Revolter, Neon, Benefactor SM722, Imorgon, Panthere, Komoda, Ruston, Locust, Rapid GT X, Coureuse, Jester RR.\n- Sedans, Muscle et SUV\nBuffalo EVX, Toros, Dominator GT Drift, Rebla GTS, Vigero ZX Convertible, Astron, Deity, Jubilee, Dominator GT, Vigero ZX.\n- Boutique\nUbermatch Cyphart, Obey QSR8, Maibatsu Sunrise, Ubermatch Sentinel T, Obey Argento, Ubermatch UMT, Ocelot Jugular E, Ubermatch Sentinel SG4.",
-      "editedBy": "NI",
-      "editedAt": "2026-11-12T17:15:47.111Z"
+      "body": "Ces véhicules sont trop puissants pour les petits délits : **interdits** pour conteneurs, LTD, ATM, cambriolages et ventes de drogue. Ils restent autorisés pour l'illégal de plus grande envergure.\n\n## Super\nAdder, Autarch, Banshee 900R, Bullet, Cheetah, Cyclone, Emerus, Entity XF, Entity XXR, ETR 1, FMJ, Furia, GP1, Infernus, Itali GTB, Itali GTB Custom, Itali GTO, Itali RSX, Krieger, Nero, Nero Custom, Osiris, Penetrator, Pfister 811, Re 7B, Reaper, SC 1, Sultan RS, T20, Taipan, Tempesta, Tezeract, Thrax, Tigon, Turismo R, Tyrant, Tyrus, Vacca, Vagner, Visione, Voltic, X80 Proto, XA 21, Zeno, Zentorno, Zorrusso.\n\n## Sports Classics\nChampion, Comet S2 Cabrio, Benefactor LM87, Deveste, Entity MT, Infernus Classic, S80RR, Suzume, Torero, Torero XO, Turismo Classic, Turismo Omaggio, Virtue, X treme.\n\n## Sports\n300R, Banshee GTS, Benefactor SM722, Comet S2, Comet Safari, Comet SR, Coquette V10, Corsita, Coureur, Envisage, Growler, Imorgon, Issi Sport, Itali GTO Stinger TT, Jester RR, Jester RR Drift, Jester RR Widebody, Jugular, Komoda, Locust, Neo, Neon, Obey 10F, Obey 10F Widebody, Panthere, Paragon R, Paragon S, Raiden, Rapid GT X, Revolter, Ruston, Schlagen, Sentinel GTS, Vectre, V STR.\n\n## Sedans, Muscle et SUV\nDeity, Vigero ZX, Vigero ZX Convertible, Buffalo EVX, Dominator GT, Dominator GT Drift, Toros, Astron, Rebla GTS, Jubilee.\n\n## Boutique\nNexus RR, Comet S2R, Comet S2R CA, Sultan RSX, Pegassi Concept, Sentinel GTS, Benefactor Eisen, Benefactor Blitz, BF Club 8R.",
+      "editedBy": "Staff Meetaverse",
+      "editedAt": "2026-11-11T23:40:00.000Z"
     },
     {
       "id": "drogues",
