@@ -1,7 +1,12 @@
 {
   "editedBy": "NI",
-  "editedAt": "2026-11-14T14:42:02.541Z",
+  "editedAt": "2026-11-14T14:48:40.431Z",
   "history": [
+    {
+      "by": "NI",
+      "at": "2026-11-14T14:48:40.431Z",
+      "what": "a modifié « Cohérence RP »"
+    },
     {
       "by": "NI",
       "at": "2026-11-14T14:42:02.541Z",
@@ -69,9 +74,9 @@
       "group": "Cadre RP",
       "icon": "theater_comedy",
       "title": "Cohérence RP",
-      "body": "- Toute incohérence de personnage est **interdite** : ton personnage doit correspondre à l'identité du gang qu'il rejoint (origine, prénom, apparence).\n- Ta façon de parler doit aussi coller à ton personnage et à ton gang : pas d'expressions qui sortent complètement de son univers.\n- Demander des POV, des vidéos ou autre comme critère de recrutement est **interdit**.",
-      "editedBy": "Staff Meetaverse",
-      "editedAt": "2026-11-11T23:40:00.000Z"
+      "body": "- Toute incohérence dans le comportement ou l'identité de ton personnage est interdite : il doit respecter l'image et les valeurs du gang qu'il représente.(identité, origine, prénom et apparence physique).\n- Ton langage et ta façon de t'exprimer doivent être cohérents avec l'identité et l'univers de ton gang.\n",
+      "editedBy": "NI",
+      "editedAt": "2026-11-14T14:48:40.431Z"
     },
     {
       "id": "amendes",
