@@ -1,16 +1,11 @@
 {
   "editedBy": "NI",
-  "editedAt": "2026-11-14T14:48:40.431Z",
+  "editedAt": "2026-11-14T15:43:56.005Z",
   "history": [
     {
       "by": "NI",
-      "at": "2026-11-14T14:48:40.431Z",
-      "what": "a modifié « Cohérence RP »"
-    },
-    {
-      "by": "NI",
-      "at": "2026-11-14T14:42:02.541Z",
-      "what": "a supprimé « Lexique illégal »"
+      "at": "2026-11-14T15:43:56.005Z",
+      "what": "a modifié « Véhicules interdits (petits délits) »"
     },
     {
       "by": "NI",
@@ -70,13 +65,22 @@
   ],
   "sections": [
     {
+      "id": "lexique",
+      "group": "Cadre RP",
+      "icon": "menu_book",
+      "title": "Lexique illégal",
+      "body": "! En jeu, le mot « offi » ou « officiel » est interdit et peut mener à un bannissement. Utilise le vocabulaire RP ci dessous.\n\n## Ta situation et ce que tu dis en RP\n- Civil qui fait de l'illégal → « Je suis une **petite frappe** »\n- Civil dans un groupe indépendant → « Je suis dans un **groupe indépendant** »\n- Civil dans une organisation indépendante → « Je suis dans une **organisation indépendante** »\n- Membre d'un gang → « Je fais partie d'un **gang** »\n- Membre d'une orga → « Je fais partie d'une **mafia**, d'une **famille**, d'un **cartel** ou d'une **organisation criminelle** »",
+      "editedBy": "Staff Meetaverse",
+      "editedAt": "2026-11-11T23:40:00.000Z"
+    },
+    {
       "id": "coherence",
       "group": "Cadre RP",
       "icon": "theater_comedy",
       "title": "Cohérence RP",
-      "body": "- Toute incohérence dans le comportement ou l'identité de ton personnage est interdite : il doit respecter l'image et les valeurs du gang qu'il représente.(identité, origine, prénom et apparence physique).\n- Ton langage et ta façon de t'exprimer doivent être cohérents avec l'identité et l'univers de ton gang.\n",
-      "editedBy": "NI",
-      "editedAt": "2026-11-14T14:48:40.431Z"
+      "body": "- Toute incohérence de personnage est **interdite** : ton personnage doit correspondre à l'identité du gang qu'il rejoint (origine, prénom, apparence).\n- Ta façon de parler doit aussi coller à ton personnage et à ton gang : pas d'expressions qui sortent complètement de son univers.\n- Demander des POV, des vidéos ou autre comme critère de recrutement est **interdit**.",
+      "editedBy": "Staff Meetaverse",
+      "editedAt": "2026-11-11T23:40:00.000Z"
     },
     {
       "id": "amendes",
@@ -236,9 +240,9 @@
       "group": "Fuite et poursuites",
       "icon": "no_crash",
       "title": "Véhicules interdits (petits délits)",
-      "body": "Ces véhicules sont trop puissants pour les petits délits : **interdits** pour conteneurs, LTD, ATM, cambriolages et ventes de drogue. Ils restent autorisés pour l'illégal de plus grande envergure.\n\n## Super\nAdder, Autarch, Banshee 900R, Bullet, Cheetah, Cyclone, Emerus, Entity XF, Entity XXR, ETR 1, FMJ, Furia, GP1, Infernus, Itali GTB, Itali GTB Custom, Itali GTO, Itali RSX, Krieger, Nero, Nero Custom, Osiris, Penetrator, Pfister 811, Re 7B, Reaper, SC 1, Sultan RS, T20, Taipan, Tempesta, Tezeract, Thrax, Tigon, Turismo R, Tyrant, Tyrus, Vacca, Vagner, Visione, Voltic, X80 Proto, XA 21, Zeno, Zentorno, Zorrusso.\n\n## Sports Classics\nChampion, Comet S2 Cabrio, Benefactor LM87, Deveste, Entity MT, Infernus Classic, S80RR, Suzume, Torero, Torero XO, Turismo Classic, Turismo Omaggio, Virtue, X treme.\n\n## Sports\n300R, Banshee GTS, Benefactor SM722, Comet S2, Comet Safari, Comet SR, Coquette V10, Corsita, Coureur, Envisage, Growler, Imorgon, Issi Sport, Itali GTO Stinger TT, Jester RR, Jester RR Drift, Jester RR Widebody, Jugular, Komoda, Locust, Neo, Neon, Obey 10F, Obey 10F Widebody, Panthere, Paragon R, Paragon S, Raiden, Rapid GT X, Revolter, Ruston, Schlagen, Sentinel GTS, Vectre, V STR.\n\n## Sedans, Muscle et SUV\nDeity, Vigero ZX, Vigero ZX Convertible, Buffalo EVX, Dominator GT, Dominator GT Drift, Toros, Astron, Rebla GTS, Jubilee.\n\n## Boutique\nNexus RR, Comet S2R, Comet S2R CA, Sultan RSX, Pegassi Concept, Sentinel GTS, Benefactor Eisen, Benefactor Blitz, BF Club 8R.",
-      "editedBy": "Staff Meetaverse",
-      "editedAt": "2026-11-11T23:40:00.000Z"
+      "body": "Ces véhicules sont considérés comme trop puissants pour les activités illégales de faible envergure. Ils sont donc interdits pour les conteneurs, LTD, ATM, et ventes de drogue. Leur utilisation reste autorisée pour les activités illégales de grande envergure.\n\n- Super\nAdder, Autarch, Banshee 900R, Bullet, Cheetah, Cyclone, Emerus, Entity XF, Entity XXR, ETR 1, FMJ, Furia, GP1, Infernus, Itali GTB, Itali GTB Custom, Itali GTO, Itali RSX, Krieger, Nero, Nero Custom, Osiris, Penetrator, Pfister 811, Re 7B, Reaper, SC 1, Sultan RS, T20, Taipan, Tempesta, Tezeract, Thrax, Tigon, Turismo R, Tyrant, Tyrus, Vacca, Vagner, Visione, Voltic, X80 Proto, XA 21, Zeno, Zentorno, Zorrusso.\n\n- Sports Classics\nChampion, Comet S2 Cabrio, Benefactor LM87, Deveste, Entity MT, Infernus Classic, S80RR, Torero, Torero XO, Turismo Classic, Turismo Omaggio, Virtue.\n\n- Sports\n300R, Benefactor SM722, Comet S2, Comet Safari, Comet SR, Coquette V10, Corsita, Coureuse, Growler, Imorgon, Issi Sport, Itali GTO Stinger TT, Jester RR, Jester RR Drift, Jugular, Komoda, Locust, Neo, Neon, Panthere, Paragon R,  Raiden, Rapid GT X, Revolter, Ruston, Schlagen, Vectre, V STR.\n\n- Sedans, Muscle et SUV\nDeity, Vigero ZX, Vigero ZX Convertible, Buffalo EVX, Dominator GT,Toros, Astron, Rebla GTS, Jubilee.\n\n- Boutique\nObey Argento, Obey QSR8 , Ocelot Jugular E , Übermacht Cyphart, Übermacht Sentinel T, 1. Übermacht UMT",
+      "editedBy": "NI",
+      "editedAt": "2026-11-14T15:43:56.005Z"
     },
     {
       "id": "drogues",
