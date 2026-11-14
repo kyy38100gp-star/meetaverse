@@ -1,0 +1,70 @@
+{
+  "editedBy": "Staff Meetaverse",
+  "editedAt": "2026-11-12T00:00:00.000Z",
+  "history": [],
+  "sections": [
+    {
+      "id": "role",
+      "group": "Entreprises",
+      "icon": "badge",
+      "title": "Rôle et hiérarchie",
+      "body": "Le RP légal a une place importante : métiers, commerces, services, relations professionnelles et développement d'entreprise.\n\n- **Respect du rôle** : chaque employé doit jouer son métier sérieusement et respecter les procédures de l'entreprise.\n- **Recrutement et hiérarchie** : suivez les critères de recrutement. Respectez les responsabilités de chaque poste, sans abus d'autorité ni favoritisme HRP.\n- **Licenciement et promotion** : les décisions doivent avoir une justification RP cohérente et respecter les règles internes validées.",
+      "editedBy": "Staff Meetaverse",
+      "editedAt": "2026-11-12T00:00:00.000Z"
+    },
+    {
+      "id": "argent",
+      "group": "Entreprises",
+      "icon": "account_balance_wallet",
+      "title": "Argent et matériel",
+      "body": "- **Salaires et primes** : toute paie, prime ou dépense doit respecter les règles économiques et les autorisations du serveur.\n- **Argent et caisse** : toute recette, dépense, paie ou transaction doit suivre les règles économiques du serveur. Le détournement de fonds peut être **sanctionné**.\n- **Matériel et véhicules** : le matériel professionnel doit servir au travail, sauf autorisation RP.",
+      "editedBy": "Staff Meetaverse",
+      "editedAt": "2026-11-12T00:00:00.000Z"
+    },
+    {
+      "id": "gestion",
+      "group": "Entreprises",
+      "icon": "storefront",
+      "title": "Création et fonctionnement",
+      "body": "- **Création d'entreprise** : le nom, l'activité, le responsable et les effectifs doivent suivre la procédure officielle.\n- **Ouverture et fermeture** : les horaires, conditions d'ouverture, stocks et responsabilités sont définis par l'entreprise et les consignes du serveur.\n- **Conflits professionnels** : les désaccords doivent d'abord se jouer en RP. Les tickets sont réservés aux infractions au règlement.\n! **Activités illégales** : n'utilisez pas les ressources d'une entreprise pour aider l'illégal en contournant les règles.",
+      "editedBy": "Staff Meetaverse",
+      "editedAt": "2026-11-12T00:00:00.000Z"
+    },
+    {
+      "id": "repertoire",
+      "group": "Répertoire des entreprises",
+      "icon": "store",
+      "title": "Les 20 entreprises légales",
+      "body": "* 24/7 Groove Street\n* 24/7 Little Seoul\n* 24/7 Murrieta Heights\n* 24/7 Paleto\n* 24/7 Sandy Shores\n* 24/7 Strawberry\n* Ambulance\n* Auto Repair\n* Burger Shot\n* Dynasty 8\n* East Custom\n* Gouvernement\n* Haute Luxury Club\n* Hornys\n* Rex's Diner\n* SASP\n* Seaton Sand's\n* Unicorn\n* Weazel News\n* West Coast Custom",
+      "editedBy": "Staff Meetaverse",
+      "editedAt": "2026-11-12T00:00:00.000Z"
+    },
+    {
+      "id": "police",
+      "group": "Police, EMS et services publics",
+      "icon": "local_police",
+      "title": "Police",
+      "body": "- **Police** : contrôles, arrestations, enquêtes et poursuites doivent être joués sérieusement.\n- **Fouilles et perquisitions** : elles doivent avoir un fondement RP et respecter les procédures propres au serveur.\n- **Arrestation et garde à vue** : les motifs, droits RP, transferts, amendes et durées doivent suivre les règles officielles validées.\n- **Poursuites** : respectez les limites de participants, les consignes de conduite et les règles d'intervention.",
+      "editedBy": "Staff Meetaverse",
+      "editedAt": "2026-11-12T00:00:00.000Z"
+    },
+    {
+      "id": "ems",
+      "group": "Police, EMS et services publics",
+      "icon": "emergency",
+      "title": "EMS",
+      "body": "- **EMS** : respectez les secours et les procédures de prise en charge. Ne détournez pas abusivement leurs interventions.\n- **Coma et réanimation** : jouez les conséquences de l'état de votre personnage et respectez les règles de mémoire et de retour en scène.",
+      "editedBy": "Staff Meetaverse",
+      "editedAt": "2026-11-12T00:00:00.000Z"
+    },
+    {
+      "id": "services_publics",
+      "group": "Police, EMS et services publics",
+      "icon": "account_balance",
+      "title": "Services publics",
+      "body": "- **Corruption** : toute corruption ou activité illégale d'un employé public doit respecter les règles propres au serveur et les autorisations requises.\n- **Véhicules et matériel de service** : le vol ou l'usage abusif est **interdit**, sauf scénario expressément autorisé.\n- **Informations professionnelles** : l'équipement et les informations professionnelles ne doivent pas donner d'avantage HRP.",
+      "editedBy": "Staff Meetaverse",
+      "editedAt": "2026-11-12T00:00:00.000Z"
+    }
+  ]
+}
