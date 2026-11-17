@@ -1,7 +1,12 @@
 {
   "editedBy": "NI",
-  "editedAt": "2026-11-17T07:45:31.969Z",
+  "editedAt": "2026-11-17T07:47:02.892Z",
   "history": [
+    {
+      "by": "NI",
+      "at": "2026-11-17T07:47:02.892Z",
+      "what": "a modifié « Règles de fuite »"
+    },
     {
       "by": "NI",
       "at": "2026-11-17T07:45:31.969Z",
@@ -314,9 +319,9 @@
       "group": "Fuite et poursuites",
       "icon": "directions_run",
       "title": "Règles de fuite",
-      "body": "- **Interdit** de forcer un joueur à donner les clés de son véhicule. Tu peux seulement exiger qu'il l'ouvre si tu es en danger immédiat face à la **police**, avec un vrai contexte RP.\n- **Interdit** de fuir la police à la nage ou en hélicoptère, sauf accord staff (sous dossier).\n- **Interdit** de fuir en deux roues après une négociation (sauf groupe MC).\n- Plans mule : uniquement avec des véhicules **Vans, Industriels ou Commerciaux**.\n! Dès qu'une course poursuite avec la police commence : **aucun offroad ni plan de fuite avant 10 minutes**.",
-      "editedBy": "Staff Meetaverse",
-      "editedAt": "2026-11-11T23:40:00.000Z"
+      "body": "- Interdit de contraindre un joueur à remettre les clés de son véhicule. Il est uniquement autorisé de lui demander de l’ouvrir en cas de danger immédiat face à la police, et seulement si la situation est justifiée par un véritable contexte RP.\n- **Interdit** de fuir la police à la nage ou en hélicoptère, sauf accord staff (sous dossier).\n- **Interdit** de fuir en deux roues après une négociation (sauf groupe MC).\n- Plans mule : uniquement avec des véhicules **Vans, Industriels ou Commerciaux**.\n! Dès qu'une course poursuite avec la police commence : **aucun offroad ni plan de fuite avant 10 minutes**.",
+      "editedBy": "NI",
+      "editedAt": "2026-11-17T07:47:02.892Z"
     },
     {
       "id": "plan_pneu",
