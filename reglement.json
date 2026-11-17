@@ -1,7 +1,12 @@
 {
   "editedBy": "NI",
-  "editedAt": "2026-11-17T07:49:02.277Z",
+  "editedAt": "2026-11-17T07:49:48.409Z",
   "history": [
+    {
+      "by": "NI",
+      "at": "2026-11-17T07:49:48.409Z",
+      "what": "a modifié « Nombre d'otages »"
+    },
     {
       "by": "NI",
       "at": "2026-11-17T07:49:02.277Z",
@@ -317,7 +322,7 @@
       "title": "Nombre d'otages",
       "body": "| Braquage | Minimum | Maximum |\n| Fleeca Bank | 3 | 4 |\n| Bijouterie | 2 | 5 |\n| Pacific Bank | 6 | 10 |\n",
       "editedBy": "NI",
-      "editedAt": "2026-11-12T14:19:29.124Z"
+      "editedAt": "2026-11-17T07:49:48.409Z"
     },
     {
       "id": "fuite_regles",
