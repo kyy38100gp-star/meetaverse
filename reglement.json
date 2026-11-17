@@ -1,7 +1,12 @@
 {
   "editedBy": "NI",
-  "editedAt": "2026-11-17T07:49:48.409Z",
+  "editedAt": "2026-11-17T07:52:47.380Z",
   "history": [
+    {
+      "by": "NI",
+      "at": "2026-11-17T07:52:47.380Z",
+      "what": "a modifié « Règles des prises d'otage »"
+    },
     {
       "by": "NI",
       "at": "2026-11-17T07:49:48.409Z",
@@ -311,9 +316,9 @@
       "group": "Prises d'otage",
       "icon": "person_alert",
       "title": "Règles des prises d'otage",
-      "body": "La prise en otage d'un membre des forces de l'ordre ou du personnel EMS doit obligatoirement être justifiée par un motif RP sérieux.\n- Il est strictement interdit d'utiliser un faux otage complice, sauf autorisation préalable du staff.\n- Il est interdit de prendre en otage un vendeur (24/7, LTD, etc.) sur son lieu de travail ou dans un périmètre d'environ 50 mètres, sauf dans le cadre d'un braquage de son commerce.\n- Le braquage doit obligatoirement être lancé dans un délai maximum de 15 minutes. Le simple fait d'être présent à l'intérieur de la banque ne constitue pas un lancement. Passé ce délai, les otages doivent être libérés.\n- Au-delà de 8 otages, une autorisation préalable du staff est obligatoire, avec dépôt d'un dossier.",
+      "body": "La prise en otage d’un membre des forces de l’ordre ou du personnel EMS doit obligatoirement être justifiée par un motif RP sérieux et cohérent.\n- Il est strictement interdit de recourir à un faux otage complice.\n- Interdit de prendre en otage un vendeur (24/7, LTD, etc.) directement sur son lieu de travail ou dans un rayon d’environ 100 mètres, sauf dans le cadre d’un braquage du commerce.\n- Le braquage doit obligatoirement être lancé dans un délai maximum de 20 minutes. Le simple fait d’être présent à l’intérieur de la banque ne constitue pas un lancement du braquage. Une fois ce délai dépassé, les otages doivent obligatoirement être libérés.\n- Au-delà de 10 otages, une autorisation préalable du staff est obligatoire, avec dépôt d'un dossier.",
       "editedBy": "NI",
-      "editedAt": "2026-11-12T14:47:18.958Z"
+      "editedAt": "2026-11-17T07:52:47.380Z"
     },
     {
       "id": "otages_nombre",
