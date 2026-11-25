@@ -1,7 +1,12 @@
 {
   "editedBy": "NI",
-  "editedAt": "2026-11-25T18:50:27.460Z",
+  "editedAt": "2026-11-25T18:50:56.847Z",
   "history": [
+    {
+      "by": "NI",
+      "at": "2026-11-25T18:50:56.847Z",
+      "what": "a réorganisé « Cadre RP »"
+    },
     {
       "by": "NI",
       "at": "2026-11-25T18:50:27.460Z",
@@ -196,22 +201,17 @@
       "by": "NI",
       "at": "2026-11-25T17:00:23.825Z",
       "what": "a modifié « Amendes et taxes »"
-    },
-    {
-      "by": "NI",
-      "at": "2026-11-25T16:59:13.886Z",
-      "what": "a modifié « Cohérence RP »"
     }
   ],
   "sections": [
     {
-      "id": "coherence",
+      "id": "rancons_groupes_illegaux",
+      "title": "Rançons groupes illégaux",
       "group": "Cadre RP",
-      "icon": "theater_comedy",
-      "title": "Cohérence RP",
-      "body": "- Le personnage doit rester cohérent dans son comportement, son identité et son apparence. Il doit respecter l’image, les valeurs et l’identité du gang ou de l’organisation qu’il représente. Cela concerne notamment son identité, son origine, son prénom et son apparence physique.Toute incohérence volontaire ou injustifiée avec ces éléments est interdite.\n- La façon de parler, le langage et les expressions utilisés par votre personnage doivent rester cohérents avec son identité, son origine et l’univers de son groupe",
+      "icon": "gavel",
+      "body": "|Prix des prises d'otages sur membres|\n| Membres: 2,5k|\n| Lead : 5k|\n                                          \n- Interdit de prendre en otage un agent des forces de l'ordres pour demander une rançon sans contextes valables",
       "editedBy": "NI",
-      "editedAt": "2026-11-25T17:31:28.847Z"
+      "editedAt": "2026-11-25T18:50:27.460Z"
     },
     {
       "id": "amendes",
@@ -430,13 +430,13 @@
       "editedAt": "2026-11-11T23:40:00.000Z"
     },
     {
-      "id": "rancons_groupes_illegaux",
-      "title": "Rançons groupes illégaux",
+      "id": "coherence",
       "group": "Cadre RP",
-      "icon": "gavel",
-      "body": "|Prix des prises d'otages sur membres|\n| Membres: 2,5k|\n| Lead : 5k|\n                                          \n- Interdit de prendre en otage un agent des forces de l'ordres pour demander une rançon sans contextes valables",
+      "icon": "theater_comedy",
+      "title": "Cohérence RP",
+      "body": "- Le personnage doit rester cohérent dans son comportement, son identité et son apparence. Il doit respecter l’image, les valeurs et l’identité du gang ou de l’organisation qu’il représente. Cela concerne notamment son identité, son origine, son prénom et son apparence physique.Toute incohérence volontaire ou injustifiée avec ces éléments est interdite.\n- La façon de parler, le langage et les expressions utilisés par votre personnage doivent rester cohérents avec son identité, son origine et l’univers de son groupe",
       "editedBy": "NI",
-      "editedAt": "2026-11-25T18:50:27.460Z"
+      "editedAt": "2026-11-25T17:31:28.847Z"
     }
   ]
 }
