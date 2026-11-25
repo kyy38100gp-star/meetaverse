@@ -1,7 +1,12 @@
 {
   "editedBy": "NI",
-  "editedAt": "2026-11-25T18:17:10.874Z",
+  "editedAt": "2026-11-25T18:30:05.945Z",
   "history": [
+    {
+      "by": "NI",
+      "at": "2026-11-25T18:30:05.945Z",
+      "what": "a modifié « Points illégaux »"
+    },
     {
       "by": "NI",
       "at": "2026-11-25T18:17:10.874Z",
@@ -196,11 +201,6 @@
       "by": "NI",
       "at": "2026-11-17T07:54:05.417Z",
       "what": "a modifié « Règles des prises d'otage »"
-    },
-    {
-      "by": "NI",
-      "at": "2026-11-17T07:52:47.380Z",
-      "what": "a modifié « Règles des prises d'otage »"
     }
   ],
   "sections": [
@@ -389,9 +389,9 @@
       "group": "Drogues et points illégaux",
       "icon": "location_on",
       "title": "Points illégaux",
-      "body": "| Camper un point illégal | 10 min max |\n| Zone concernée | 500 m autour |\n| Retour sur le même point | 30 min minimum |\n\n- Il est autorisé de fouiller ou de voler un joueur présent sur un point illégal (blanchiment, drogue, go fast, pêche illégale, etc.), même sans raison particulière. En cas de loot, 50 % maximum de la marchandise ou du butin peut être récupéré.",
+      "body": "| Camper un point illégal | 10 min max |\n| Zone concernée | 500 m autour |\n| Retour sur le même point | 30 min minimum |\n\n- Il est autorisé de braquer et de fouiller un joueur présent sur un point illégal (blanchiment, drogue, go-fast, pêche illégale, etc.), sans qu’un motif supplémentaire soit nécessaire.\n\n- En cas de vol, 50 % maximum de la marchandise ou du butin transporté peut être récupéré.",
       "editedBy": "NI",
-      "editedAt": "2026-11-25T16:58:28.135Z"
+      "editedAt": "2026-11-25T18:30:05.945Z"
     },
     {
       "id": "gunfight",
