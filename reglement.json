@@ -1,7 +1,12 @@
 {
   "editedBy": "NI",
-  "editedAt": "2026-11-25T16:48:58.174Z",
+  "editedAt": "2026-11-25T16:55:34.161Z",
   "history": [
+    {
+      "by": "NI",
+      "at": "2026-11-25T16:55:34.161Z",
+      "what": "a modifié « Drogues »"
+    },
     {
       "by": "NI",
       "at": "2026-11-25T16:48:58.174Z",
@@ -196,11 +201,6 @@
       "by": "NI",
       "at": "2026-11-11T23:49:02+01:00",
       "what": "a modifié « Nombre d'otages »"
-    },
-    {
-      "by": "NI",
-      "at": "2026-11-11T23:44:11+01:00",
-      "what": "a modifié « Blanchiment »"
     }
   ],
   "sections": [
@@ -380,9 +380,9 @@
       "group": "Drogues et points illégaux",
       "icon": "grass",
       "title": "Drogues",
-      "body": "- Les **civils** n'ont accès qu'aux points de weed. Pour les autres drogues, il faut au moins être dans un groupe indépendant.\n- **Interdit** de vendre à moto, buggy, quad, vélo ou avec un moyen de transport incohérent (cheval, supersportive, etc.).\n- Vendre dans une zone revendiquée par un autre groupe peut avoir de **grosses conséquences RP**.\n- Récolte et traitement uniquement avec : **Steed, Speedo, Moonbeam, Burrito, Youga, Rumpo**.",
-      "editedBy": "Staff Meetaverse",
-      "editedAt": "2026-11-11T23:40:00.000Z"
+      "body": "- Les **civils** n'ont accès qu'aux points de weed. Pour les autres drogues, il faut au moins être dans un groupe indépendant.\n- **Interdit** de vendre à moto, buggy, quad, vélo ou avec un moyen de transport incohérent (supersportive, etc.).\n- Vendre dans une zone revendiquée par un autre groupe peut avoir de **grosses conséquences RP**.\n- Récolte et traitement uniquement avec : **Steed, Speedo, Moonbeam, Burrito, Youga, Rumpo**.",
+      "editedBy": "NI",
+      "editedAt": "2026-11-25T16:55:34.161Z"
     },
     {
       "id": "points_illegaux",
