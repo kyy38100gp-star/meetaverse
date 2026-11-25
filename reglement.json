@@ -1,7 +1,12 @@
 {
   "editedBy": "NI",
-  "editedAt": "2026-11-25T18:13:41.733Z",
+  "editedAt": "2026-11-25T18:14:22.902Z",
   "history": [
+    {
+      "by": "NI",
+      "at": "2026-11-25T18:14:22.902Z",
+      "what": "a modifié « Tableau des plans de fuite »"
+    },
     {
       "by": "NI",
       "at": "2026-11-25T18:13:41.733Z",
@@ -196,11 +201,6 @@
       "by": "NI",
       "at": "2026-11-17T07:47:02.892Z",
       "what": "a modifié « Règles de fuite »"
-    },
-    {
-      "by": "NI",
-      "at": "2026-11-17T07:45:31.969Z",
-      "what": "a modifié « Véhicules interdits (petits délits) »"
     }
   ],
   "sections": [
@@ -362,9 +362,9 @@
       "group": "Fuite et poursuites",
       "icon": "table_chart",
       "title": "Tableau des plans de fuite",
-      "body": "| Activité | Mule | Récup | Pneu | Offroad | Nage |\n| ATM | ❌ | ❌ | ❌ | ❌ | ❌ |\n| Supérette | ❌ | ❌ | ❌ | ❌ | ❌ |\n| Cambriolage | ❌ | ❌ | ❌ | ❌ | ❌ |\n| Vente de drogue | ❌ | ❌ | ❌ | ❌ | ❌ |\n| Go fast | ❌ | ❌ | ❌ | ❌ | ❌ |\n| Armurerie | ✅ | ✅ | ✅ | ✅ | ❌ |\n| Fleeca | ✅ | ✅ | ✅ | ✅ | ❌ |\n| Bijouterie | ✅ | ✅ | ✅ | ✅ | ❌ |\n| Human Labs | ✅ | ✅ | ✅ | ✅ | ❌ |\n| Plateforme | ✅ | ✅ | ✅ | ✅ | ❌ |\n| Pacific | ✅ | ✅ | ✅ | ✅ | ❌ |\n| Convois | ✅ | ✅ | ✅ | ✅ | ❌ |\n\n> ✅ autorisé seulement après 10 minutes de poursuite. ❌ interdit dans tous les cas.",
-      "editedBy": "Staff Meetaverse",
-      "editedAt": "2026-11-11T23:40:00.000Z"
+      "body": "| Activité | Mule | Récup | Pneu | Offroad | Nage |\n| ATM | ❌ | ❌ | ❌ | ❌ | ❌ |\n| Supérette | ❌ | ❌ | ❌ | ❌ | ❌ |\n| Cambriolage | ❌ | ❌ | ❌ | ❌ | ❌ |\n| Vente de drogue | ❌ | ❌ | ❌ | ❌ | ❌ |\n| Go fast | ❌ | ❌ | ❌ | ❌ | ❌ |\n| Armurerie | ✅ | ✅ | ✅ | ❌ | ❌ |\n| Fleeca | ✅ | ✅ | ✅ | ✅ | ❌ |\n| Bijouterie | ✅ | ✅ | ✅ | ✅ | ❌ |\n| Human Labs | ✅ | ✅ | ✅ | ✅ | ❌ |\n| Plateforme | ✅ | ✅ | ✅ | ✅ | ❌ |\n| Pacific | ✅ | ✅ | ✅ | ✅ | ❌ |\n| Convois | ✅ | ✅ | ✅ | ✅ | ❌ |\n\n> ✅ autorisé seulement après 10 minutes de poursuite. ❌ interdit dans tous les cas.",
+      "editedBy": "NI",
+      "editedAt": "2026-11-25T18:14:22.902Z"
     },
     {
       "id": "vehicules_interdits",
