@@ -1,7 +1,12 @@
 {
   "editedBy": "NI",
-  "editedAt": "2026-11-25T19:34:26.595Z",
+  "editedAt": "2026-11-25T19:34:47.714Z",
   "history": [
+    {
+      "by": "NI",
+      "at": "2026-11-25T19:34:47.714Z",
+      "what": "a modifié « Blanchiment »"
+    },
     {
       "by": "NI",
       "at": "2026-11-25T19:34:26.595Z",
@@ -196,11 +201,6 @@
       "by": "NI",
       "at": "2026-11-25T17:46:04.367Z",
       "what": "a modifié « Règles des braquages »"
-    },
-    {
-      "by": "NI",
-      "at": "2026-11-25T17:45:35.872Z",
-      "what": "a modifié « Règles des braquages »"
     }
   ],
   "sections": [
@@ -263,9 +263,9 @@
       "group": "Règles générales",
       "icon": "local_laundry_service",
       "title": "Blanchiment",
-      "body": "- Il est strictement interdit de camper sur les points illégaux, notamment les zones de blanchiment, que ce soit à l'intérieur ou à l'extérieur des lieux concernés.",
+      "body": "Il est strictement interdit de camper ou de rester en attente sur les points illégaux, notamment les zones de blanchiment, que ce soit à l’intérieur ou à proximité immédiate de ces lieux.",
       "editedBy": "NI",
-      "editedAt": "2026-11-12T14:32:44.889Z"
+      "editedAt": "2026-11-25T19:34:47.714Z"
     },
     {
       "id": "vols",
