@@ -1,7 +1,12 @@
 {
   "editedBy": "NI",
-  "editedAt": "2026-11-25T17:55:17.493Z",
+  "editedAt": "2026-11-25T17:56:47.384Z",
   "history": [
+    {
+      "by": "NI",
+      "at": "2026-11-25T17:56:47.384Z",
+      "what": "a modifié « Véhicules en braquage »"
+    },
     {
       "by": "NI",
       "at": "2026-11-25T17:55:17.493Z",
@@ -196,11 +201,6 @@
       "by": "NI",
       "at": "2026-11-12T15:46:21+01:00",
       "what": "a modifié « Règles des prises d'otage »"
-    },
-    {
-      "by": "NI",
-      "at": "2026-11-12T15:45:25+01:00",
-      "what": "a modifié « Services publics »"
     }
   ],
   "sections": [
@@ -308,9 +308,9 @@
       "group": "Braquages",
       "icon": "two_wheeler",
       "title": "Véhicules en braquage",
-      "body": "- Les braquages (Fleeca, LTD, Bijouterie, etc.) doivent obligatoirement être effectués avec un véhicule autorisé. L'utilisation de motos, quads, scooters, buggys ou hélicoptères est strictement interdite.\n- L'utilisation de véhicules supersportifs est interdite pour tous les braquages (LTD, ATM, cambriolages) ainsi que pour les ventes de drogues. Vous devez obligatoirement utiliser un véhicule adapté à ce type d'activité, conformément à la liste autorisée dans la section « Fuites et poursuites ».\n- Conteneur : **1 véhicule maximum**.",
+      "body": "- Les braquages (Fleeca, LTD, Bijouterie, etc.) doivent obligatoirement être effectués avec un véhicule autorisé. L'utilisation de motos, quads, scooters, buggys ou hélicoptères est strictement interdite.\n- L'utilisation de véhicules supersportifs est interdite pour tous les braquages (LTD, ATM, cambriolages) ainsi que pour les ventes de drogues. Vous devez obligatoirement utiliser un véhicule adapté à ce type d'activité, conformément à la liste autorisée dans la section « Fuites et poursuites ».\n- Conteneur : **3 véhicules max**.\n- ATM/LTD : **1 véhicule max**\n- Fleeca : **2 véhicules max**\n",
       "editedBy": "NI",
-      "editedAt": "2026-11-25T17:55:17.493Z"
+      "editedAt": "2026-11-25T17:56:47.384Z"
     },
     {
       "id": "services",
