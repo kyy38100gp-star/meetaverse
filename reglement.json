@@ -1,7 +1,12 @@
 {
   "editedBy": "NI",
-  "editedAt": "2026-11-25T18:12:15.049Z",
+  "editedAt": "2026-11-25T18:13:41.733Z",
   "history": [
+    {
+      "by": "NI",
+      "at": "2026-11-25T18:13:41.733Z",
+      "what": "a modifié « Plan pneu »"
+    },
     {
       "by": "NI",
       "at": "2026-11-25T18:12:15.049Z",
@@ -196,11 +201,6 @@
       "by": "NI",
       "at": "2026-11-17T07:45:31.969Z",
       "what": "a modifié « Véhicules interdits (petits délits) »"
-    },
-    {
-      "by": "NI",
-      "at": "2026-11-14T16:55:10+01:00",
-      "what": "a modifié « Véhicules interdits (petits délits) »"
     }
   ],
   "sections": [
@@ -353,9 +353,9 @@
       "group": "Fuite et poursuites",
       "icon": "tire_repair",
       "title": "Plan pneu",
-      "body": "- Préparation d'un plan mule ou d'un véhicule de récupération\tObligatoire\n- Durée minimale de poursuite 15 minutes avec une intervale de 5 min entre chaque plan pneu\n- Nombre minimum de véhicules de police engagés\t2 véhicules\n- Nombre maximum de participants (conducteur inclus) 3 personnes\n",
+      "body": "- Préparation d'un plan mule ou d'un véhicule de récupération\tObligatoire dès 10 min de poursuites avec une intervale 5 min entre chaque plan mule ou d'un véhicule de récupération\n- Durée minimale de poursuite 15 minutes avec une intervale de 10 min entre chaque plan pneu\n- Nombre minimum de véhicules de police engagés\t2 véhicules\n- Nombre maximum de participants (conducteur inclus) 3 personnes\n",
       "editedBy": "NI",
-      "editedAt": "2026-11-25T18:12:15.049Z"
+      "editedAt": "2026-11-25T18:13:41.733Z"
     },
     {
       "id": "plans_fuite",
