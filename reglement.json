@@ -1,7 +1,12 @@
 {
   "editedBy": "NI",
-  "editedAt": "2026-11-25T18:46:37.391Z",
+  "editedAt": "2026-11-25T18:47:11.109Z",
   "history": [
+    {
+      "by": "NI",
+      "at": "2026-11-25T18:47:11.109Z",
+      "what": "a modifié « Rançons groupes illégaux »"
+    },
     {
       "by": "NI",
       "at": "2026-11-25T18:46:37.391Z",
@@ -195,11 +200,6 @@
     {
       "by": "NI",
       "at": "2026-11-25T16:56:32.948Z",
-      "what": "a modifié « Drogues »"
-    },
-    {
-      "by": "NI",
-      "at": "2026-11-25T16:55:44.274Z",
       "what": "a modifié « Drogues »"
     }
   ],
@@ -434,9 +434,9 @@
       "title": "Rançons groupes illégaux",
       "group": "Cadre RP",
       "icon": "gavel",
-      "body": "|Prix des prises d'otages sur membres de groupes | Membres: 2,5k | Lead : 5k\n                                          \n- Interdit de prendre en otage un agent des forces de l'ordres pour demander une rançon sans contextes valables",
+      "body": "|Prix des prises d'otages sur membres de groupes \n| Membres: 2,5k \n| Lead : 5k |\n                                          \n- Interdit de prendre en otage un agent des forces de l'ordres pour demander une rançon sans contextes valables",
       "editedBy": "NI",
-      "editedAt": "2026-11-25T18:46:37.391Z"
+      "editedAt": "2026-11-25T18:47:11.109Z"
     }
   ]
 }
