@@ -1,7 +1,12 @@
 {
   "editedBy": "NI",
-  "editedAt": "2026-11-25T16:40:17.186Z",
+  "editedAt": "2026-11-25T16:48:58.174Z",
   "history": [
+    {
+      "by": "NI",
+      "at": "2026-11-25T16:48:58.174Z",
+      "what": "a modifié « Cargaison et Drop »"
+    },
     {
       "by": "NI",
       "at": "2026-11-25T16:40:17.186Z",
@@ -196,11 +201,6 @@
       "by": "NI",
       "at": "2026-11-11T23:44:11+01:00",
       "what": "a modifié « Blanchiment »"
-    },
-    {
-      "by": "AMS",
-      "at": "2026-11-11T23:44:04+01:00",
-      "what": "a modifié « test »"
     }
   ],
   "sections": [
@@ -415,10 +415,10 @@
       "id": "cargaison",
       "group": "Spécifique Meetaverse",
       "icon": "inventory_2",
-      "title": "Cargaison et drop",
-      "body": "- **Un seul groupe** a le droit de taper la cargaison du drop de matières premières d'armes.",
-      "editedBy": "Staff Meetaverse",
-      "editedAt": "2026-11-11T23:40:00.000Z"
+      "title": "Cargaison et Drop",
+      "body": "- **Un seul groupe** a le droit de taper la cargaison du drop de matières premières d'armes.\n\n- Pour marquer une présence et pouvoir attaquer le groupe ayant passé la commande, il faut qu’il y ait au minimum 2 voitures du groupe concurrent présentes sur place.\n\n- Une fois le drop atterri, si le groupe ayant passé la commande n’est pas présent sur la zone dans un délai de 10 minutes, le groupe concurrent est autorisé à récupérer la totalité du butin présent dans le drop.\n\n\n- Si le groupe A et le groupe B disposent chacun de 3 véhicules présents sur la zone, la situation est considérée comme un CVC.\n\n\n",
+      "editedBy": "NI",
+      "editedAt": "2026-11-25T16:48:58.174Z"
     },
     {
       "id": "cvc",
