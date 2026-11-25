@@ -1,7 +1,12 @@
 {
   "editedBy": "NI",
-  "editedAt": "2026-11-25T19:31:00.129Z",
+  "editedAt": "2026-11-25T19:32:04.484Z",
   "history": [
+    {
+      "by": "NI",
+      "at": "2026-11-25T19:32:04.484Z",
+      "what": "a modifié « Séquestration »"
+    },
     {
       "by": "NI",
       "at": "2026-11-25T19:31:00.129Z",
@@ -196,11 +201,6 @@
       "by": "NI",
       "at": "2026-11-25T17:35:04.109Z",
       "what": "a modifié « Forces de l'ordre »"
-    },
-    {
-      "by": "NI",
-      "at": "2026-11-25T17:31:28.847Z",
-      "what": "a modifié « Cohérence RP »"
     }
   ],
   "sections": [
@@ -227,9 +227,9 @@
       "group": "Règles générales",
       "icon": "lock",
       "title": "Séquestration",
-      "body": "| Durée maximale autorisée | 30 minutes (prolongation possible avec validation du staff) |\n| Au-delà de 30 minutes | Motif RP sérieux et justification obligatoire |\n\n- Il est interdit de délaisser un joueur ou de l'exclure volontairement de la scène RP en le laissant seul sans interaction.\n- Toute prise d'otage doit avoir pour objectif de faire évoluer le RP (interrogatoire, torture RP, négociation, etc.). Il est interdit de retenir un joueur sans interaction ni véritable intérêt scénaristique.",
+      "body": "| Durée maximale autorisée | 30 minutes (prolongation possible avec validation du staff) |\n| Au-delà de 30 minutes | Motif RP sérieux et justification obligatoire |\n\n- Il est interdit de délaisser ou d’exclure volontairement un joueur d’une scène RP, notamment en le laissant seul sans aucune interaction ou possibilité de participer à la scène.\n- Toute prise d’otage doit avoir un véritable objectif RP permettant de faire évoluer la scène (interrogatoire, torture RP, négociation, échange, etc.). Il est interdit de retenir un joueur sans interaction, sans objectif précis ou sans réel intérêt scénaristique.",
       "editedBy": "NI",
-      "editedAt": "2026-11-25T17:01:35.224Z"
+      "editedAt": "2026-11-25T19:32:04.483Z"
     },
     {
       "id": "guerres",
