@@ -1,7 +1,12 @@
 {
   "editedBy": "NI",
-  "editedAt": "2026-11-25T17:40:14.138Z",
+  "editedAt": "2026-11-25T17:45:35.872Z",
   "history": [
+    {
+      "by": "NI",
+      "at": "2026-11-25T17:45:35.872Z",
+      "what": "a modifié « Règles des braquages »"
+    },
     {
       "by": "NI",
       "at": "2026-11-25T17:40:14.138Z",
@@ -196,11 +201,6 @@
       "by": "NI",
       "at": "2026-11-12T15:39:09+01:00",
       "what": "a modifié « Ventes et zones »"
-    },
-    {
-      "by": "NI",
-      "at": "2026-11-12T15:38:24+01:00",
-      "what": "a modifié « Ventes et zones »"
     }
   ],
   "sections": [
@@ -290,9 +290,9 @@
       "group": "Braquages",
       "icon": "gpp_maybe",
       "title": "Règles des braquages",
-      "body": "| Braquer seul | Interdit |\n| Moyenne envergure (Fleeca, Bijouterie) | 2 braqueurs min |\n| Haute envergure (Pacific) | 6 braqueurs min |\n| Fleeca | 1 braquage toutes les 2 h par joueur |\n\nLors d'un affrontement entre braqueurs, des sommations orales claires doivent obligatoirement être effectuées avant toute ouverture du feu.\n\n\n\nIl est strictement interdit d'intervenir pour contre-braquer des joueurs pendant qu'un braquage est déjà en cours.\n\nLes braquages ne doivent pas être effectués dans le seul but de les enchaîner rapidement. Chaque action doit reposer sur un contexte et des motivations RP valables.\nIl est interdit d'enchaîner plusieurs braquages sur un même point. Après avoir réalisé un braquage, vous devez obligatoirement quitter les lieux.\nIl est interdit de camper devant une Fleeca dans l'attente de la fin du cooldown. Une tolérance de 5 minutes est accordée, après quoi la zone doit impérativement être libérée.\nToute utilisation de l'unité X pendant un braquage en cours (Fleeca, Pacific Bank, etc.) entraînera un wipe du projet ainsi qu'une blacklist de l'illégal.",
+      "body": "| Braquer seul | Interdit |\n| Moyenne envergure (Fleeca, Bijouterie) | 2 braqueurs min |\n| Haute envergure (Pacific) | 6 braqueurs min |\n| Fleeca | 1 braquage toutes les 2 h par joueur |\n\n- Lors d'un affrontement entre braqueurs, des sommations orales claires doivent obligatoirement être effectuées avant toute ouverture du feu.\n\n\n\n- Il est strictement interdit d'intervenir pour contre-braquer des joueurs pendant qu'un braquage est déjà en cours.\n\n- Les braquages ne doivent pas être effectués dans le seul but de les enchaîner rapidement. Chaque action doit reposer sur un contexte et des motivations RP valables.\nIl est interdit d'enchaîner plusieurs braquages sur un même point. Après avoir réalisé un braquage, vous devez obligatoirement quitter les lieux.\n\n- Toute utilisation de l'unité X pendant un braquage en cours (Fleeca, Pacific Bank, etc.) entraînera un wipe du projet ainsi qu'une blacklist de l'illégal.",
       "editedBy": "NI",
-      "editedAt": "2026-11-25T17:40:14.138Z"
+      "editedAt": "2026-11-25T17:45:35.872Z"
     },
     {
       "id": "attente_police",
