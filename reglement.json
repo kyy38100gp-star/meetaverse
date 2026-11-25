@@ -1,7 +1,12 @@
 {
   "editedBy": "NI",
-  "editedAt": "2026-11-17T07:54:05.417Z",
+  "editedAt": "2026-11-25T16:39:50.344Z",
   "history": [
+    {
+      "by": "NI",
+      "at": "2026-11-25T16:39:50.344Z",
+      "what": "a modifié « Points illégaux »"
+    },
     {
       "by": "NI",
       "at": "2026-11-17T07:54:05.417Z",
@@ -384,9 +389,9 @@
       "group": "Drogues et points illégaux",
       "icon": "location_on",
       "title": "Points illégaux",
-      "body": "| Camper un point illégal | 5 min max |\n| Zone concernée | 500 m autour |\n| Retour sur le même point | 30 min minimum |\n\n- Le délai de retour ne s'applique pas aux machines de blanchiment du darknet (mais bien aux laboratoires).\n- **Interdit** de braquer ou loot au PNJ de départ (ex : PNJ du go fast ou de la bijouterie).\n- **Interdit** de fouiller ou voler un joueur sur un point illégal (blanchiment, drogue, go fast, pêche illégale) sans raison, sauf **flagrant délit** : tu l'as vu utiliser le point.",
-      "editedBy": "Staff Meetaverse",
-      "editedAt": "2026-11-11T23:40:00.000Z"
+      "body": "| Camper un point illégal | 10 min max |\n| Zone concernée | 500 m autour |\n| Retour sur le même point | 30 min minimum |\n\n- Le délai de retour ne s'applique pas aux machines de blanchiment du darknet (mais bien aux laboratoires).\n- **Interdit** de braquer ou loot au PNJ de départ (ex : PNJ du go fast ou de la bijouterie).\n- **Interdit** de fouiller ou voler un joueur sur un point illégal (blanchiment, drogue, go fast, pêche illégale) sans raison, sauf **flagrant délit** : tu l'as vu utiliser le point.",
+      "editedBy": "NI",
+      "editedAt": "2026-11-25T16:39:50.344Z"
     },
     {
       "id": "gunfight",
