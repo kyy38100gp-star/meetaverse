@@ -146,10 +146,20 @@ body.editing .secbtns{display:flex}
 body.editing .addsec{display:flex}
 mark{background:rgba(var(--rgb),.45);color:#fff;border-radius:3px;padding:0 2px}
 .hidden{display:none!important}
+select.f option{background:var(--p1);color:#fff}
 .noresult{color:var(--mut);text-align:center;padding:50px;font-size:16px}
 
 /* SIDE */
-aside{position:sticky;top:92px;align-self:start;display:flex;flex-direction:column;gap:16px}
+aside{position:sticky;top:92px;align-self:start;display:flex;flex-direction:column;gap:16px;max-height:calc(100vh - 110px)}
+aside>*{flex:none}
+aside>.toccard{flex:3 1 auto;min-height:300px;display:flex;flex-direction:column}
+aside>.histcard{flex:0 1 auto;min-height:120px;display:flex;flex-direction:column}
+.histcard .in{flex:1;min-height:0;overflow-y:auto;scrollbar-width:thin;scrollbar-color:var(--line) transparent}
+.toccard .toc{flex:1;min-height:0;overflow-y:auto;overscroll-behavior:contain;position:relative;scrollbar-width:thin;scrollbar-color:var(--red) transparent}
+.toccard .toc::-webkit-scrollbar{width:6px}.toccard .toc::-webkit-scrollbar-thumb{background:var(--red);border-radius:6px}
+.gadd{display:none;align-items:center;gap:6px;border:1px solid var(--line);background:var(--p1);color:var(--txt2);border-radius:10px;padding:7px 12px;font-size:13px;font-weight:600;cursor:pointer}
+.gadd:hover{border-color:var(--red);color:#fff}.gadd .ms{font-size:18px}
+body.editing .gadd{display:flex}
 .card{background:var(--p1);border:1px solid var(--line);border-radius:16px;overflow:hidden}
 .card h5{margin:0;padding:14px 18px;font-size:12px;letter-spacing:1.4px;text-transform:uppercase;color:var(--mut);font-weight:700;border-bottom:1px solid var(--line);display:flex;align-items:center;gap:8px}
 .card h5 .ms{font-size:18px;color:var(--red)}
@@ -188,9 +198,10 @@ footer b{color:var(--txt);font-family:Rajdhani;font-size:17px;letter-spacing:1px
 .mb{padding:18px 22px;overflow:auto;flex:1}
 .mf{padding:14px 22px;border-top:1px solid var(--line);display:flex;justify-content:flex-end;gap:10px}
 label{display:block;font-size:12px;color:var(--mut);margin:0 0 6px;text-transform:uppercase;letter-spacing:1px;font-weight:600}
-input.f,textarea.f{width:100%;background:var(--bg);border:1px solid var(--line);color:var(--txt);border-radius:10px;padding:10px 12px;font-family:inherit;font-size:15px;outline:none}
-input.f:focus,textarea.f:focus{border-color:var(--red)}
+input.f,textarea.f,select.f{width:100%;background:var(--bg);border:1px solid var(--line);color:var(--txt);border-radius:10px;padding:10px 12px;font-family:inherit;font-size:15px;outline:none}
+input.f:focus,textarea.f:focus,select.f:focus{border-color:var(--red)}
 textarea.f{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:13.5px;min-height:360px;resize:vertical;line-height:1.6}
+select.f{cursor:pointer;appearance:none;padding-right:36px;background-image:linear-gradient(45deg,transparent 50%,var(--mut) 50%),linear-gradient(135deg,var(--mut) 50%,transparent 50%);background-position:calc(100% - 18px) 50%,calc(100% - 13px) 50%;background-size:5px 5px;background-repeat:no-repeat}
 .row{display:grid;grid-template-columns:1fr 1fr 170px;gap:12px;margin-bottom:14px}
 .split{display:grid;grid-template-columns:1fr 1fr;gap:16px}
 .prev{max-height:440px;overflow:auto}
@@ -276,7 +287,7 @@ textarea.f{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:13.5px;mi
         <h5><span class="ms">toc</span>Sur cette page</h5>
         <div class="in toc" id="toc"></div>
       </div>
-      <div class="card">
+      <div class="card histcard">
         <h5><span class="ms">update</span>Historique</h5>
         <div class="in"><ul class="hist" id="hist"></ul></div>
       </div>
@@ -297,7 +308,7 @@ textarea.f{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:13.5px;mi
     <div class="mb">
       <div class="row">
         <div><label>Titre</label><input class="f" id="fTitle"></div>
-        <div><label>Catégorie</label><input class="f" id="fGroup" list="groups"><datalist id="groups"></datalist></div>
+        <div><label>Catégorie</label><select class="f" id="fGroupSel"></select><input class="f hidden" id="fGroup" placeholder="Nom de la nouvelle catégorie" style="margin-top:8px"></div>
         <div><label>Icône</label><input class="f" id="fIcon" placeholder="flag"></div>
       </div>
       <div class="split">
@@ -450,7 +461,8 @@ function render(){
       .filter(o=>!q || (o.s.title+" "+o.s.body+" "+gname).toLowerCase().includes(q));
     if(!items.length) return;
     const g = document.createElement("div"); g.className="group";
-    g.innerHTML = '<div class="ghead"><div class="num">'+String(gi+1).padStart(2,"0")+'</div><h2>'+esc(gname)+'</h2><div class="ln"></div></div><div class="grid"></div>';
+    g.innerHTML = '<div class="ghead"><div class="num">'+String(gi+1).padStart(2,"0")+'</div><h2>'+esc(gname)+'</h2><div class="ln"></div><button class="gadd" title="Ajouter une section dans cette catégorie"><span class="ms">add</span>Ajouter ici</button></div><div class="grid"></div>';
+    g.querySelector(".gadd").onclick=()=>openEditor(-1,gname);
     const grid = g.querySelector(".grid");
     const isWide = s => s.body.length>650 || /^\* /m.test(s.body) || /\|[^\n|]*\|[^\n|]*\|[^\n|]*\|/.test(s.body);
     const flags = items.map(o=>isWide(o.s)); let col=0;
@@ -488,7 +500,7 @@ function render(){
   $("chipDate").textContent = "Mis à jour le " + fmtShort(state.editedAt);
   $("chipBy").textContent = "Par " + by;
   $("hist").innerHTML = (state.history||[]).slice(0,8).map(h=>'<li><b>'+esc(h.by)+'</b> · '+esc(h.what)+'<small>'+esc(fmtDate(h.at))+'</small></li>').join("") || "<li>Aucune modification</li>";
-  $("groups").innerHTML = groups().map(g=>'<option value="'+esc(g)+'">').join("");
+
   observeToc();
 }
 
@@ -498,6 +510,7 @@ function observeToc(){
   if(!("IntersectionObserver" in window)) return;
   tocObs = new IntersectionObserver(es=>es.forEach(e=>{ if(e.isIntersecting){
     document.querySelectorAll("#toc a").forEach(a=>a.classList.toggle("on",a.dataset.id===e.target.id));
+    const t=$("toc"), a=t.querySelector('a.on'); if(a && !t.matches(":hover")) t.scrollTo({top:a.offsetTop-t.clientHeight/2,behavior:"smooth"});
     document.querySelectorAll("#navSecs a").forEach(a=>a.classList.toggle("cur",a.dataset.id===e.target.id));
   }}),{rootMargin:"-90px 0px -65% 0px"});
   document.querySelectorAll(".sec[id]").forEach(s=>tocObs.observe(s));
@@ -545,11 +558,17 @@ async function commit(ns, what){
 }
 
 let edIndex=-1;
-function openEditor(i){
+const NEWCAT="__new__";
+function syncGroupSel(){ const n=$("fGroupSel").value===NEWCAT; $("fGroup").classList.toggle("hidden",!n); if(n){ $("fGroup").value=""; $("fGroup").focus(); } }
+$("fGroupSel").onchange=syncGroupSel;
+function openEditor(i,grp){
   edIndex=i;
-  const s = i>=0 ? state.sections[i] : {title:"", group:groups()[0]||"Règles générales", icon:"gavel", body:"- "};
+  const s = i>=0 ? state.sections[i] : {title:"", group:grp||groups()[0]||"Règles générales", icon:"gavel", body:"- "};
+  const gl=groups(), cur=groupOf(s); if(!gl.includes(cur)) gl.push(cur);
+  $("fGroupSel").innerHTML = gl.map(g=>'<option value="'+esc(g)+'">'+esc(g)+'</option>').join("") + '<option value="'+NEWCAT+'">+ Nouvelle catégorie…</option>';
+  $("fGroupSel").value=cur; $("fGroup").classList.add("hidden");
   $("edTitle").textContent = i>=0 ? "Modifier « "+s.title+" »" : "Nouvelle section";
-  $("fTitle").value=s.title; $("fGroup").value=groupOf(s); $("fIcon").value=s.icon||""; $("fBody").value=s.body;
+  $("fTitle").value=s.title; $("fGroup").value=cur; $("fIcon").value=s.icon||""; $("fBody").value=s.body;
   $("edDel").style.display = i>=0 ? "" : "none";
   updPrev(); $("edOv").classList.add("show");
 }
@@ -560,12 +579,14 @@ $("fBody").oninput=$("fTitle").oninput=$("fIcon").oninput=updPrev;
 $("edCancel").onclick=()=>$("edOv").classList.remove("show");
 $("edSave").onclick=async()=>{
   const title=$("fTitle").value.trim(); if(!title){ $("fTitle").focus(); return; }
+  const grp = $("fGroupSel").value===NEWCAT ? $("fGroup").value.trim() : $("fGroupSel").value;
+  if(!grp){ $("fGroup").focus(); return; }
   const who = getPseudo() || await askPseudo(); if(!who) return;
   const ns=clone(state), now=new Date().toISOString();
-  const data={title, group:$("fGroup").value.trim()||"Autres", icon:$("fIcon").value.trim()||"gavel", body:$("fBody").value, editedBy:who, editedAt:now};
+  const data={title, group:grp, icon:$("fIcon").value.trim()||"gavel", body:$("fBody").value, editedBy:who, editedAt:now};
   let what;
   if(edIndex>=0){ Object.assign(ns.sections[edIndex],data); what="a modifié « "+title+" »"; }
-  else { let id=slug(title); while(ns.sections.some(s=>s.id===id)) id+="2"; ns.sections.push(Object.assign({id},data)); what="a ajouté « "+title+" »"; }
+  else { let id=slug(title); while(ns.sections.some(s=>s.id===id)) id+="2"; let at=-1; ns.sections.forEach((x,k)=>{ if(groupOf(x)===grp) at=k; }); ns.sections.splice(at>=0?at+1:ns.sections.length,0,Object.assign({id},data)); what="a ajouté « "+title+" » dans « "+grp+" »"; }
   $("edSave").disabled=true; const ok=await commit(ns,what); $("edSave").disabled=false;
   if(ok) $("edOv").classList.remove("show");
 };
