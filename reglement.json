@@ -1,7 +1,12 @@
 {
   "editedBy": "NI",
-  "editedAt": "2026-11-25T18:02:20.370Z",
+  "editedAt": "2026-11-25T18:03:53.696Z",
   "history": [
+    {
+      "by": "NI",
+      "at": "2026-11-25T18:03:53.696Z",
+      "what": "a modifié « Règles des prises d'otage »"
+    },
     {
       "by": "NI",
       "at": "2026-11-25T18:02:20.370Z",
@@ -196,11 +201,6 @@
       "by": "NI",
       "at": "2026-11-12T15:56:50+01:00",
       "what": "a modifié « Plan pneu »"
-    },
-    {
-      "by": "NI",
-      "at": "2026-11-12T15:56:36+01:00",
-      "what": "a modifié « Plan pneu »"
     }
   ],
   "sections": [
@@ -326,9 +326,9 @@
       "group": "Prises d'otage",
       "icon": "person_alert",
       "title": "Règles des prises d'otage",
-      "body": "La prise en otage d’un membre des forces de l’ordre doit obligatoirement être justifiée par un motif RP sérieux et cohérent.\n- Il est strictement interdit de recourir à un faux otage complice.\n- Interdit de prendre en otage un vendeur (24/7, LTD, etc.) directement sur son lieu de travail ou dans un rayon d’environ 100 mètres, sauf dans le cadre d’un braquage du commerce.\n- Le braquage doit obligatoirement être lancé dans un délai maximum de 10 minutes. Le simple fait d’être présent à l’intérieur de la banque ne constitue pas un lancement du braquage. Une fois ce délai dépassé, les otages doivent obligatoirement être libérés.\n- Au-delà de 10 otages, une autorisation préalable du staff est obligatoire et doit être accompagnée du dépôt d’un dossier.",
+      "body": "- La prise en otage d’un membre des forces de l’ordre doit obligatoirement être justifiée par un motif RP sérieux et cohérent.\n- Il est strictement interdit de recourir à un faux otage complice.\n- Interdit de prendre en otage un vendeur (24/7, LTD, etc.) directement sur son lieu de travail ou dans un rayon d’environ 100 mètres, sauf dans le cadre d’un braquage du commerce.\n- Le braquage doit obligatoirement être lancé dans un délai maximum de 10 minutes. Le simple fait d’être présent à l’intérieur de la banque ne constitue pas un lancement du braquage. Une fois ce délai dépassé, les otages doivent obligatoirement être libérés.\n- Au-delà de 10 otages, une autorisation préalable du staff est obligatoire et doit être accompagnée du dépôt d’un dossier.\n- Il est strictement interdit de prendre en otage un membre des EMS, quelles que soient les circonstances ou la situation RP.\n",
       "editedBy": "NI",
-      "editedAt": "2026-11-25T18:02:20.370Z"
+      "editedAt": "2026-11-25T18:03:53.696Z"
     },
     {
       "id": "otages_nombre",
