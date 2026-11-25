@@ -1,7 +1,12 @@
 {
   "editedBy": "NI",
-  "editedAt": "2026-11-25T17:01:35.224Z",
+  "editedAt": "2026-11-25T17:02:38.802Z",
   "history": [
+    {
+      "by": "NI",
+      "at": "2026-11-25T17:02:38.802Z",
+      "what": "a modifié « Guerres entre groupes »"
+    },
     {
       "by": "NI",
       "at": "2026-11-25T17:01:35.224Z",
@@ -196,11 +201,6 @@
       "by": "NI",
       "at": "2026-11-12T15:21:06+01:00",
       "what": "a modifié « Amendes et taxes »"
-    },
-    {
-      "by": "NI",
-      "at": "2026-11-12T15:18:32+01:00",
-      "what": "a modifié « Nombre d'otages »"
     }
   ],
   "sections": [
@@ -236,9 +236,9 @@
       "group": "Règles générales",
       "icon": "swords",
       "title": "Guerres entre groupes",
-      "body": "- Toute guerre doit être justifiée par un contexte RP solide et des motifs cohérents. Tout abus ou déclenchement injustifié pourra entraîner de lourdes sanctions, pouvant aller jusqu'à la mort RP ou au wipe de l'organisation.\nLorsqu'un groupe prend nettement l'avantage sur son adversaire, il doit obligatoirement lui proposer une issue fair-play afin de mettre fin au conflit.\nEn cas de refus injustifié motivé uniquement par l'ego, le staff pourra intervenir et appliquer des sanctions adaptées (conséquences RP, pouvant aller jusqu'au wipe du projet).",
+      "body": "- Toute guerre doit être justifiée par un contexte RP solide et des motifs cohérents. Tout abus ou déclenchement injustifié pourra entraîner de lourdes sanctions, pouvant aller jusqu'à la mort RP ou au wipe du groupe.\n\n- Lorsqu'un groupe prend nettement l'avantage sur son adversaire, il doit obligatoirement lui proposer une issue fair-play afin de mettre fin au conflit.\n\n- En cas de refus injustifié motivé uniquement par l'ego, le staff pourra intervenir et appliquer des sanctions adaptées (conséquences RP, pouvant aller jusqu'au wipe du projet).",
       "editedBy": "NI",
-      "editedAt": "2026-11-12T14:26:37.727Z"
+      "editedAt": "2026-11-25T17:02:38.802Z"
     },
     {
       "id": "police",
