@@ -1,7 +1,12 @@
 {
   "editedBy": "NI",
-  "editedAt": "2026-11-25T16:39:50.344Z",
+  "editedAt": "2026-11-25T16:40:17.186Z",
   "history": [
+    {
+      "by": "NI",
+      "at": "2026-11-25T16:40:17.186Z",
+      "what": "a modifié « Gunfight »"
+    },
     {
       "by": "NI",
       "at": "2026-11-25T16:39:50.344Z",
@@ -196,11 +201,6 @@
       "by": "AMS",
       "at": "2026-11-11T23:44:04+01:00",
       "what": "a modifié « test »"
-    },
-    {
-      "by": "AMS",
-      "at": "2026-11-11T23:43:34+01:00",
-      "what": "a ajouté « test »"
     }
   ],
   "sections": [
@@ -398,9 +398,9 @@
       "group": "Gunfight",
       "icon": "sports_martial_arts",
       "title": "Gunfight",
-      "body": "- **Interdit** de prendre de grosses hauteurs juste avant un gunfight.\n- **Interdit** de trash, danser ou provoquer quelqu'un à terre ou pendant le gunfight.\n- **Interdit** de ragdoll ou de lancer des animations pendant un gunfight.\n- Les corps se sécurisent dans un **endroit cohérent**, jamais dans l'eau ou un buisson (risque de mort RP).\n- **Interdit** de porter la couleur du groupe adverse pendant un gunfight.",
-      "editedBy": "Staff Meetaverse",
-      "editedAt": "2026-11-11T23:40:00.000Z"
+      "body": "- **Interdit** de prendre de grosses hauteurs juste avant un gunfight.\n- **Interdit** de trash, danser ou provoquer quelqu'un à terre ou pendant le gunfight.\n- **Interdit** de ragdoll ou de lancer des animations pendant un gunfight.\n- Les corps se sécurisent dans un **endroit cohérent**, jamais dans l'eau ou un buisson (risque de wipe).\n- **Interdit** de porter la couleur du groupe adverse pendant un gunfight.",
+      "editedBy": "NI",
+      "editedAt": "2026-11-25T16:40:17.186Z"
     },
     {
       "id": "territoires",
