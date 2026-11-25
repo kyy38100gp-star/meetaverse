@@ -1,7 +1,12 @@
 {
   "editedBy": "NI",
-  "editedAt": "2026-11-25T18:38:14.070Z",
+  "editedAt": "2026-11-25T18:46:10.796Z",
   "history": [
+    {
+      "by": "NI",
+      "at": "2026-11-25T18:46:10.796Z",
+      "what": "a modifié « Rançons groupes illégaux »"
+    },
     {
       "by": "NI",
       "at": "2026-11-25T18:38:14.070Z",
@@ -196,11 +201,6 @@
       "by": "NI",
       "at": "2026-11-25T16:55:34.161Z",
       "what": "a modifié « Drogues »"
-    },
-    {
-      "by": "NI",
-      "at": "2026-11-25T16:48:58.174Z",
-      "what": "a modifié « Cargaison et Drop »"
     }
   ],
   "sections": [
@@ -434,9 +434,9 @@
       "title": "Rançons groupes illégaux",
       "group": "Cadre RP",
       "icon": "gavel",
-      "body": "- Interdit de prendre en otage un agent des forces de l'ordres pour demander une rançon sans contextes valables\n|MEMBRES: 2,5k / Lead : 5k |                                           \n",
+      "body": "- Interdit de prendre en otage un agent des forces de l'ordres pour demander une rançon sans contextes valables\n\n|Prix des prises d'otages sur membres de groupes | Membres: 2,5k | Lead : 5k\n                                          \n",
       "editedBy": "NI",
-      "editedAt": "2026-11-25T18:38:14.070Z"
+      "editedAt": "2026-11-25T18:46:10.796Z"
     }
   ]
 }
