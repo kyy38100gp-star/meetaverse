@@ -1,7 +1,12 @@
 {
   "editedBy": "NI",
-  "editedAt": "2026-11-25T18:32:06.228Z",
+  "editedAt": "2026-11-25T18:38:14.070Z",
   "history": [
+    {
+      "by": "NI",
+      "at": "2026-11-25T18:38:14.070Z",
+      "what": "a ajouté « Rançons groupes illégaux »"
+    },
     {
       "by": "NI",
       "at": "2026-11-25T18:32:06.228Z",
@@ -196,11 +201,6 @@
       "by": "NI",
       "at": "2026-11-25T16:48:58.174Z",
       "what": "a modifié « Cargaison et Drop »"
-    },
-    {
-      "by": "NI",
-      "at": "2026-11-25T16:40:17.186Z",
-      "what": "a modifié « Gunfight »"
     }
   ],
   "sections": [
@@ -428,6 +428,15 @@
       "body": "## Limite de kevlar\n| Orga contre gang | 10 kev |\n| Orga contre orga | 20 kev |\n\n## Combat\n- Redrop : autorisé\n- Face à face : autorisé\n- Bait : interdit\n- Back : **1 voiture de 2 personnes maximum** (gangs et organisations)",
       "editedBy": "Staff Meetaverse",
       "editedAt": "2026-11-11T23:40:00.000Z"
+    },
+    {
+      "id": "rancons_groupes_illegaux",
+      "title": "Rançons groupes illégaux",
+      "group": "Cadre RP",
+      "icon": "gavel",
+      "body": "- Interdit de prendre en otage un agent des forces de l'ordres pour demander une rançon sans contextes valables\n|MEMBRES: 2,5k / Lead : 5k |                                           \n",
+      "editedBy": "NI",
+      "editedAt": "2026-11-25T18:38:14.070Z"
     }
   ]
 }
