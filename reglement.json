@@ -1,7 +1,12 @@
 {
   "editedBy": "NI",
-  "editedAt": "2026-11-25T17:19:25.411Z",
+  "editedAt": "2026-11-25T17:28:45.517Z",
   "history": [
+    {
+      "by": "NI",
+      "at": "2026-11-25T17:28:45.517Z",
+      "what": "a modifié « Ventes et zones »"
+    },
     {
       "by": "NI",
       "at": "2026-11-25T17:19:25.411Z",
@@ -196,11 +201,6 @@
       "by": "NI",
       "at": "2026-11-12T15:25:40+01:00",
       "what": "a modifié « Guerres entre groupes »"
-    },
-    {
-      "by": "NI",
-      "at": "2026-11-12T15:23:19+01:00",
-      "what": "a modifié « Séquestration »"
     }
   ],
   "sections": [
@@ -281,9 +281,9 @@
       "group": "Vols et arnaques",
       "icon": "sell",
       "title": "Ventes et zones",
-      "body": "Il est interdit de dépouiller un joueur au nom d'un territoire que vous ne possédez pas officiellement via le système d'achat de zones de vente (Gestion de votre tablette crew).\nTout individu vendant sur votre territoire peut être braqué et chassé, mais ne peut pas être dépouillé lors de la première intervention. En cas de retour sur le territoire, une seconde intervention autorise le dépouillement.\n",
+      "body": "- Tout individu qui vend sur une zone revendiquée par un autre groupe doit assumer les conséquences RP. Le groupe propriétaire de la zone est libre d’intervenir en conséquence.\n",
       "editedBy": "NI",
-      "editedAt": "2026-11-12T14:40:37.474Z"
+      "editedAt": "2026-11-25T17:28:45.516Z"
     },
     {
       "id": "braquages_regles",
