@@ -1,7 +1,12 @@
 {
   "editedBy": "NI",
-  "editedAt": "2026-11-25T19:14:46.254Z",
+  "editedAt": "2026-11-25T19:24:59.298Z",
   "history": [
+    {
+      "by": "NI",
+      "at": "2026-11-25T19:24:59.298Z",
+      "what": "a modifié « Rançons groupes illégaux »"
+    },
     {
       "by": "NI",
       "at": "2026-11-25T19:14:46.254Z",
@@ -196,11 +201,6 @@
       "by": "NI",
       "at": "2026-11-25T17:28:45.517Z",
       "what": "a modifié « Ventes et zones »"
-    },
-    {
-      "by": "NI",
-      "at": "2026-11-25T17:19:25.411Z",
-      "what": "a modifié « Vols et loot »"
     }
   ],
   "sections": [
@@ -434,9 +434,9 @@
       "title": "Rançons groupes illégaux",
       "group": "Prises d'otage",
       "icon": "gavel",
-      "body": "|Prix des prises d'otages sur membres|\n| Membres: 2,5k|\n| Lead : 5k|\n                                          \n- Interdit de prendre en otage un agent des forces de l'ordres pour demander une rançon sans contextes valables",
+      "body": "|Prix des prises d'otages sur membres|\n| Membres: 2,5k|\n| Lead : 5k|\n                                          \n- Interdit de prendre en otage un agent des forces de l'ordres pour demander une rançon sans contextes valables\n- Après avoir PO un groupe, un délai de 5 minutes doit obligatoirement être respecté avant toute nouvelle prise d'otage.\n- Si le lead refuse de payer la somme demandée, le groupe adverse est autorisé à faire farm le joueur pour sa vie, à hauteur de 5 000 $.\n- Si le joueur refuse également de farm ou de s’acquitter des 5 000 $, une mort RP peut être appliquée.",
       "editedBy": "NI",
-      "editedAt": "2026-11-25T19:14:46.254Z"
+      "editedAt": "2026-11-25T19:24:59.298Z"
     }
   ]
 }
