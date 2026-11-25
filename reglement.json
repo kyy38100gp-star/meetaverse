@@ -1,7 +1,12 @@
 {
   "editedBy": "NI",
-  "editedAt": "2026-11-25T17:31:28.847Z",
+  "editedAt": "2026-11-25T17:35:04.109Z",
   "history": [
+    {
+      "by": "NI",
+      "at": "2026-11-25T17:35:04.109Z",
+      "what": "a modifié « Forces de l'ordre »"
+    },
     {
       "by": "NI",
       "at": "2026-11-25T17:31:28.847Z",
@@ -196,11 +201,6 @@
       "by": "NI",
       "at": "2026-11-12T15:31:47+01:00",
       "what": "a modifié « Blanchiment »"
-    },
-    {
-      "by": "NI",
-      "at": "2026-11-12T15:29:33+01:00",
-      "what": "a modifié « SNS et braquages majeurs »"
     }
   ],
   "sections": [
@@ -245,9 +245,9 @@
       "group": "Règles générales",
       "icon": "local_police",
       "title": "Forces de l'ordre",
-      "body": "- **Entrée au poste de police** : dès lors qu’un membre de votre groupe est entré au poste de police, toute négociation visant à obtenir son évasion ou sa libération est interdite.\n- **Tir sur un agent** : si un joueur ouvre le feu sur un agent, aucune négociation ne pourra être engagée pour récupérer une arme, un membre ou tout autre bien saisi à la suite de la scène.\n- **Kidnapping d’un agent** : le groupe bénéficie d’une seule négociation pour obtenir sa libération. Une fois cette négociation utilisée, la police ne sera plus tenue de négocier avec ce groupe lors de toute prochaine prise d’otage, qu’il s’agisse d’un civil ou d’un agent.",
+      "body": "- **Entrée au poste de police** : dès lors qu’un membre de votre groupe est entré au poste de police, toute négociation visant à obtenir son évasion ou sa libération est interdite.\n- **Kidnapping d’un agent** : le groupe bénéficie d’une seule négociation pour obtenir sa libération. Une fois cette négociation utilisée, la police ne sera plus tenue de négocier avec ce groupe lors de toute prochaine prise d’otage, qu’il s’agisse d’un civil ou d’un agent.",
       "editedBy": "NI",
-      "editedAt": "2026-11-25T17:06:27.816Z"
+      "editedAt": "2026-11-25T17:35:04.109Z"
     },
     {
       "id": "sns",
