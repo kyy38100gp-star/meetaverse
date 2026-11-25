@@ -1,7 +1,12 @@
 {
   "editedBy": "NI",
-  "editedAt": "2026-11-25T16:58:28.135Z",
+  "editedAt": "2026-11-25T16:59:13.886Z",
   "history": [
+    {
+      "by": "NI",
+      "at": "2026-11-25T16:59:13.886Z",
+      "what": "a modifié « Cohérence RP »"
+    },
     {
       "by": "NI",
       "at": "2026-11-25T16:58:28.135Z",
@@ -196,11 +201,6 @@
       "by": "NI",
       "at": "2026-11-12T15:15:48+01:00",
       "what": "a modifié « Attente de la police »"
-    },
-    {
-      "by": "NI",
-      "at": "2026-11-12T15:12:51+01:00",
-      "what": "a modifié « Vols et loot »"
     }
   ],
   "sections": [
@@ -209,9 +209,9 @@
       "group": "Cadre RP",
       "icon": "theater_comedy",
       "title": "Cohérence RP",
-      "body": "- Toute incohérence dans le comportement ou l'identité de ton personnage est interdite : il doit respecter l'image et les valeurs du gang qu'il représente.(identité, origine, prénom et apparence physique).\n- Ton langage et ta façon de t'exprimer doivent être cohérents avec l'identité et l'univers de ton gang.\n",
+      "body": "- Toute incohérence dans le comportement ou l'identité de ton personnage est interdite : il doit respecter l'image et les valeurs du gang/orga qu'il représente.(identité, origine, prénom et apparence physique).\n- Ton langage et ta façon de t'exprimer doivent être cohérents avec l'identité et l'univers de ton gang.\n",
       "editedBy": "NI",
-      "editedAt": "2026-11-14T14:48:40.431Z"
+      "editedAt": "2026-11-25T16:59:13.886Z"
     },
     {
       "id": "amendes",
