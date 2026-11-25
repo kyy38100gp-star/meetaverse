@@ -1,7 +1,12 @@
 {
   "editedBy": "NI",
-  "editedAt": "2026-11-25T17:35:04.109Z",
+  "editedAt": "2026-11-25T17:35:48.643Z",
   "history": [
+    {
+      "by": "NI",
+      "at": "2026-11-25T17:35:48.643Z",
+      "what": "a modifié « SNS et braquages majeurs »"
+    },
     {
       "by": "NI",
       "at": "2026-11-25T17:35:04.109Z",
@@ -196,11 +201,6 @@
       "by": "NI",
       "at": "2026-11-12T15:36:13+01:00",
       "what": "a modifié « Vols et loot »"
-    },
-    {
-      "by": "NI",
-      "at": "2026-11-12T15:31:47+01:00",
-      "what": "a modifié « Blanchiment »"
     }
   ],
   "sections": [
@@ -254,9 +254,9 @@
       "group": "Règles générales",
       "icon": "target",
       "title": "SNS et braquages majeurs",
-      "body": "- L'utilisation d'armes inférieures au Beretta est strictement interdite lors des braquages majeurs : Fleeca, Bijouterie,Pacific Bank ainsi que tous les braquages soumis à validation d'un dossier staff.\n\n- Les armes de catégorie inférieure au Beretta sont autorisées pour les activités suivantes : LTD, armurerie, braquage de joueurs, prises d'otages hors braquage majeur, fusillades entre groupes, etc.",
+      "body": "- L'utilisation d'armes inférieures au Beretta est strictement interdite lors des braquages majeurs : Fleeca, Bijouterie,Pacific Bank ainsi que tous les braquages soumis à validation d'un dossier staff.\n\n- Les armes de catégorie inférieure au Beretta sont autorisées pour les activités suivantes : LTD, armurerie, braquage de joueurs, prises d'otages hors braquage majeur.",
       "editedBy": "NI",
-      "editedAt": "2026-11-12T14:30:30.663Z"
+      "editedAt": "2026-11-25T17:35:48.643Z"
     },
     {
       "id": "blanchiment",
