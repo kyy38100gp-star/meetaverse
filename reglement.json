@@ -1,7 +1,12 @@
 {
   "editedBy": "NI",
-  "editedAt": "2026-11-25T16:55:44.274Z",
+  "editedAt": "2026-11-25T16:56:32.948Z",
   "history": [
+    {
+      "by": "NI",
+      "at": "2026-11-25T16:56:32.948Z",
+      "what": "a modifié « Drogues »"
+    },
     {
       "by": "NI",
       "at": "2026-11-25T16:55:44.274Z",
@@ -196,11 +201,6 @@
       "by": "NI",
       "at": "2026-11-12T15:10:52+01:00",
       "what": "a modifié « Vols et loot »"
-    },
-    {
-      "by": "NI",
-      "at": "2026-11-12T15:10:22+01:00",
-      "what": "a modifié « Vols et loot »"
     }
   ],
   "sections": [
@@ -380,9 +380,9 @@
       "group": "Drogues et points illégaux",
       "icon": "grass",
       "title": "Drogues",
-      "body": "- **Interdit** de vendre à moto, buggy, quad, vélo ou avec un moyen de transport incohérent (supersportive, etc.).\n- Vendre dans une zone revendiquée par un autre groupe peut avoir de **grosses conséquences RP**.\n- Récolte et traitement uniquement avec : **Steed, Speedo, Moonbeam, Burrito, Youga, Rumpo**.",
+      "body": "- **Interdit** de vendre à moto, buggy, quad, vélo ou avec un moyen de transport incohérent (supersportive, etc.).\n- Vendre dans une zone revendiquée par un autre groupe peut avoir de **grosses conséquences RP**.\n- Récolte et traitement uniquement avec : **Speedo, Moonbeam, Burrito, Youga, Rumpo**.",
       "editedBy": "NI",
-      "editedAt": "2026-11-25T16:55:44.274Z"
+      "editedAt": "2026-11-25T16:56:32.948Z"
     },
     {
       "id": "points_illegaux",
