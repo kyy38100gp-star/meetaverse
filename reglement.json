@@ -1,7 +1,12 @@
 {
   "editedBy": "NI",
-  "editedAt": "2026-11-25T18:14:22.902Z",
+  "editedAt": "2026-11-25T18:15:15.098Z",
   "history": [
+    {
+      "by": "NI",
+      "at": "2026-11-25T18:15:15.098Z",
+      "what": "a modifié « Tableau des plans de fuite »"
+    },
     {
       "by": "NI",
       "at": "2026-11-25T18:14:22.902Z",
@@ -196,11 +201,6 @@
       "by": "NI",
       "at": "2026-11-17T07:49:02.277Z",
       "what": "a modifié « Règles de fuite »"
-    },
-    {
-      "by": "NI",
-      "at": "2026-11-17T07:47:02.892Z",
-      "what": "a modifié « Règles de fuite »"
     }
   ],
   "sections": [
@@ -364,7 +364,7 @@
       "title": "Tableau des plans de fuite",
       "body": "| Activité | Mule | Récup | Pneu | Offroad | Nage |\n| ATM | ❌ | ❌ | ❌ | ❌ | ❌ |\n| Supérette | ❌ | ❌ | ❌ | ❌ | ❌ |\n| Cambriolage | ❌ | ❌ | ❌ | ❌ | ❌ |\n| Vente de drogue | ❌ | ❌ | ❌ | ❌ | ❌ |\n| Go fast | ❌ | ❌ | ❌ | ❌ | ❌ |\n| Armurerie | ✅ | ✅ | ✅ | ❌ | ❌ |\n| Fleeca | ✅ | ✅ | ✅ | ✅ | ❌ |\n| Bijouterie | ✅ | ✅ | ✅ | ✅ | ❌ |\n| Human Labs | ✅ | ✅ | ✅ | ✅ | ❌ |\n| Plateforme | ✅ | ✅ | ✅ | ✅ | ❌ |\n| Pacific | ✅ | ✅ | ✅ | ✅ | ❌ |\n| Convois | ✅ | ✅ | ✅ | ✅ | ❌ |\n\n> ✅ autorisé seulement après 10 minutes de poursuite. ❌ interdit dans tous les cas.",
       "editedBy": "NI",
-      "editedAt": "2026-11-25T18:14:22.902Z"
+      "editedAt": "2026-11-25T18:15:15.098Z"
     },
     {
       "id": "vehicules_interdits",
