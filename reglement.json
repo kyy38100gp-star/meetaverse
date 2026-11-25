@@ -1,7 +1,12 @@
 {
   "editedBy": "NI",
-  "editedAt": "2026-11-25T18:51:22.497Z",
+  "editedAt": "2026-11-25T19:14:46.254Z",
   "history": [
+    {
+      "by": "NI",
+      "at": "2026-11-25T19:14:46.254Z",
+      "what": "a modifié « Rançons groupes illégaux »"
+    },
     {
       "by": "NI",
       "at": "2026-11-25T18:51:22.497Z",
@@ -196,11 +201,6 @@
       "by": "NI",
       "at": "2026-11-25T17:19:25.411Z",
       "what": "a modifié « Vols et loot »"
-    },
-    {
-      "by": "NI",
-      "at": "2026-11-25T17:06:27.816Z",
-      "what": "a modifié « Forces de l'ordre »"
     }
   ],
   "sections": [
@@ -432,11 +432,11 @@
     {
       "id": "rancons_groupes_illegaux",
       "title": "Rançons groupes illégaux",
-      "group": "Cadre RP",
+      "group": "Prises d'otage",
       "icon": "gavel",
       "body": "|Prix des prises d'otages sur membres|\n| Membres: 2,5k|\n| Lead : 5k|\n                                          \n- Interdit de prendre en otage un agent des forces de l'ordres pour demander une rançon sans contextes valables",
       "editedBy": "NI",
-      "editedAt": "2026-11-25T18:50:27.460Z"
+      "editedAt": "2026-11-25T19:14:46.254Z"
     }
   ]
 }
