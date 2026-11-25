@@ -1,7 +1,12 @@
 {
   "editedBy": "NI",
-  "editedAt": "2026-11-25T18:07:05.668Z",
+  "editedAt": "2026-11-25T18:07:47.818Z",
   "history": [
+    {
+      "by": "NI",
+      "at": "2026-11-25T18:07:47.818Z",
+      "what": "a modifié « Règles de fuite »"
+    },
     {
       "by": "NI",
       "at": "2026-11-25T18:07:05.668Z",
@@ -196,11 +201,6 @@
       "by": "NI",
       "at": "2026-11-14T16:54:36+01:00",
       "what": "a modifié « Véhicules interdits (petits délits) »"
-    },
-    {
-      "by": "NI",
-      "at": "2026-11-14T16:42:54+01:00",
-      "what": "a modifié « Véhicules interdits (petits délits) »"
     }
   ],
   "sections": [
@@ -344,9 +344,9 @@
       "group": "Fuite et poursuites",
       "icon": "directions_run",
       "title": "Règles de fuite",
-      "body": "\n- Interdit de prendre la fuite face à la police à la nage ou en hélicoptère, sauf autorisation préalable du staff avec un dossier justificatif.\n- Interdit de prendre la fuite en deux-roues à la suite d’une négociation, sauf pour les groupes MC.\n\n! Dès qu'une course poursuite avec la police commence : **aucun offroad ni plan de fuite avant 10 minutes**.",
+      "body": "\n- Interdit de prendre la fuite face à la police à la nage ou en hélicoptère, sauf autorisation préalable du staff avec un dossier justificatif.\n- Interdit de prendre la fuite en deux-roues.\n\n! Dès qu'une course poursuite avec la police commence : **aucun offroad ni plan de fuite avant 10 minutes**.",
       "editedBy": "NI",
-      "editedAt": "2026-11-25T18:06:19.378Z"
+      "editedAt": "2026-11-25T18:07:47.818Z"
     },
     {
       "id": "plan_pneu",
