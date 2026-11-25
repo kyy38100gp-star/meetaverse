@@ -1,7 +1,12 @@
 {
   "editedBy": "NI",
-  "editedAt": "2026-11-25T19:32:04.484Z",
+  "editedAt": "2026-11-25T19:33:24.015Z",
   "history": [
+    {
+      "by": "NI",
+      "at": "2026-11-25T19:33:24.015Z",
+      "what": "a modifié « Guerres entre groupes »"
+    },
     {
       "by": "NI",
       "at": "2026-11-25T19:32:04.484Z",
@@ -196,11 +201,6 @@
       "by": "NI",
       "at": "2026-11-25T17:35:48.643Z",
       "what": "a modifié « SNS et braquages majeurs »"
-    },
-    {
-      "by": "NI",
-      "at": "2026-11-25T17:35:04.109Z",
-      "what": "a modifié « Forces de l'ordre »"
     }
   ],
   "sections": [
@@ -236,9 +236,9 @@
       "group": "Règles générales",
       "icon": "swords",
       "title": "Guerres entre groupes",
-      "body": "- Toute guerre doit être justifiée par un contexte RP solide et des motifs cohérents. Tout abus ou déclenchement injustifié pourra entraîner de lourdes sanctions, pouvant aller jusqu'à la mort RP ou au wipe du groupe.\n\n- Lorsqu'un groupe prend nettement l'avantage sur son adversaire, il doit obligatoirement lui proposer une issue fair-play afin de mettre fin au conflit.\n\n- En cas de refus injustifié motivé uniquement par l'ego, le staff pourra intervenir et appliquer des sanctions adaptées (conséquences RP, pouvant aller jusqu'au wipe du projet).",
+      "body": "- Toute guerre doit être justifiée par un contexte RP solide et des raisons cohérentes. Tout déclenchement abusif ou injustifié pourra entraîner de lourdes sanctions, pouvant aller jusqu’à la mort RP ou au wipe du groupe.\n- Lorsqu’un groupe prend clairement l’avantage sur son adversaire, il doit obligatoirement lui proposer une issue fair-play permettant de mettre fin au conflit et d’éviter que la situation ne s’éternise.\n- En cas de refus injustifié, notamment motivé uniquement par l’ego ou l’envie de prolonger inutilement le conflit, le staff pourra intervenir et appliquer des sanctions adaptées, pouvant aller de conséquences RP jusqu’au wipe du projet.",
       "editedBy": "NI",
-      "editedAt": "2026-11-25T17:02:38.802Z"
+      "editedAt": "2026-11-25T19:33:24.015Z"
     },
     {
       "id": "police",
