@@ -1,7 +1,12 @@
 {
   "editedBy": "NI",
-  "editedAt": "2026-11-25T17:06:27.816Z",
+  "editedAt": "2026-11-25T17:19:25.411Z",
   "history": [
+    {
+      "by": "NI",
+      "at": "2026-11-25T17:19:25.411Z",
+      "what": "a modifié « Vols et loot »"
+    },
     {
       "by": "NI",
       "at": "2026-11-25T17:06:27.816Z",
@@ -196,11 +201,6 @@
       "by": "NI",
       "at": "2026-11-12T15:23:19+01:00",
       "what": "a modifié « Séquestration »"
-    },
-    {
-      "by": "NI",
-      "at": "2026-11-12T15:21:34+01:00",
-      "what": "a modifié « Amendes et taxes »"
     }
   ],
   "sections": [
@@ -272,9 +272,9 @@
       "group": "Vols et arnaques",
       "icon": "back_hand",
       "title": "Vols et loot",
-      "body": "| Loot maximum | 50 % |\n| Vol de matériel ou d'armes | Interdit, sauf dans le coffre d'un véhicule |\n\nTout vol doit être justifié par un contexte RP cohérent. Il est interdit de dérober des biens sans motif valable.\nLes véhicules abandonnés hors zone safe peuvent être fouillés. Les objets volés dans les coffres ne feront l'objet d'aucun remboursement. Pensez à verrouiller vos véhicules pour éviter les vols.\nIl est strictement interdit de fouiller le coffre d'un véhicule lorsqu'un joueur est caché à l'intérieur (freeloot).\nLe vol d'équipements appartenant aux services publics (Police, EMS, etc.) est formellement interdit.\nIl est interdit de forcer un citoyen à retirer de l'argent de son coffre, de son compte bancaire ou de son appartement.\nTout téléphone volé doit être restitué à son propriétaire à la fin de la scène RP.",
+      "body": "| Loot maximum | 50 % |\n| Vol de matériel ou d'armes | Interdit, sauf dans le coffre d'un véhicule |\n\n- Tout acte de vol, de fouille ou de récupération de biens doit être justifié par une situation RP cohérente. Les vols effectués sans motif valable sont interdits.\n\n- Un véhicule laissé sans surveillance en dehors d’une zone safe peut être fouillé. Les biens éventuellement dérobés dans son coffre ne pourront faire l’objet d’aucune demande de remboursement. Il est donc recommandé de toujours verrouiller son véhicule.\n\n- Il est strictement interdit de fouiller le coffre d’un véhicule lorsqu’un joueur se trouve caché à l’intérieur. Cette pratique est considérée comme du freeloot et est interdite.\n\n- Le vol de matériel appartenant aux services publics, notamment la Police ou les EMS, est strictement interdit, quel que soit le contexte.\n\n- Il est interdit de contraindre ou de menacer un joueur afin qu’il retire de l’argent depuis son coffre, son compte bancaire ou son appartement.\n\n- Tout téléphone dérobé doit obligatoirement être rendu à son propriétaire à la fin de la scène RP. Il ne peut pas être conservé après la fin de l’interaction.",
       "editedBy": "NI",
-      "editedAt": "2026-11-12T14:37:10.598Z"
+      "editedAt": "2026-11-25T17:19:25.411Z"
     },
     {
       "id": "arnaques",
