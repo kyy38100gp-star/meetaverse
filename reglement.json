@@ -1,7 +1,12 @@
 {
   "editedBy": "NI",
-  "editedAt": "2026-11-25T19:33:24.015Z",
+  "editedAt": "2026-11-25T19:33:30.919Z",
   "history": [
+    {
+      "by": "NI",
+      "at": "2026-11-25T19:33:30.919Z",
+      "what": "a modifié « Forces de l'ordre »"
+    },
     {
       "by": "NI",
       "at": "2026-11-25T19:33:24.015Z",
@@ -196,11 +201,6 @@
       "by": "NI",
       "at": "2026-11-25T17:40:14.138Z",
       "what": "a modifié « Règles des braquages »"
-    },
-    {
-      "by": "NI",
-      "at": "2026-11-25T17:35:48.643Z",
-      "what": "a modifié « SNS et braquages majeurs »"
     }
   ],
   "sections": [
@@ -247,7 +247,7 @@
       "title": "Forces de l'ordre",
       "body": "- **Entrée au poste de police** : dès lors qu’un membre de votre groupe est entré au poste de police, toute négociation visant à obtenir son évasion ou sa libération est interdite.\n- **Kidnapping d’un agent** : le groupe bénéficie d’une seule négociation pour obtenir sa libération. Une fois cette négociation utilisée, la police ne sera plus tenue de négocier avec ce groupe lors de toute prochaine prise d’otage, qu’il s’agisse d’un civil ou d’un agent.",
       "editedBy": "NI",
-      "editedAt": "2026-11-25T17:35:04.109Z"
+      "editedAt": "2026-11-25T19:33:30.919Z"
     },
     {
       "id": "sns",
