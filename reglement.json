@@ -1,7 +1,12 @@
 {
   "editedBy": "NI",
-  "editedAt": "2026-11-26T19:31:37.514Z",
+  "editedAt": "2026-11-26T19:31:58.072Z",
   "history": [
+    {
+      "by": "NI",
+      "at": "2026-11-26T19:31:58.072Z",
+      "what": "a modifié « Nombre d'otages »"
+    },
     {
       "by": "NI",
       "at": "2026-11-26T19:31:37.514Z",
@@ -196,11 +201,6 @@
       "by": "NI",
       "at": "2026-11-25T17:56:47.384Z",
       "what": "a modifié « Véhicules en braquage »"
-    },
-    {
-      "by": "NI",
-      "at": "2026-11-25T17:55:17.493Z",
-      "what": "a modifié « Véhicules en braquage »"
     }
   ],
   "sections": [
@@ -332,12 +332,12 @@
     },
     {
       "id": "otages_nombre",
-      "group": "Prises d'otage",
+      "group": "Braquages",
       "icon": "groups",
       "title": "Nombre d'otages",
       "body": "| Braquage | Minimum | Maximum |\n| Fleeca Bank | 3 | 4 |\n| Bijouterie | 2 | 5 |\n\n",
       "editedBy": "NI",
-      "editedAt": "2026-11-25T18:04:56.591Z"
+      "editedAt": "2026-11-26T19:31:58.072Z"
     },
     {
       "id": "fuite_regles",
