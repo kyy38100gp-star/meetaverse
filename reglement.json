@@ -1,7 +1,12 @@
 {
   "editedBy": "NI",
-  "editedAt": "2026-11-26T03:26:28.582Z",
+  "editedAt": "2026-11-26T19:31:37.514Z",
   "history": [
+    {
+      "by": "NI",
+      "at": "2026-11-26T19:31:37.514Z",
+      "what": "a ajouté « Nombre de ravisseurs par braquage » dans « Braquages »"
+    },
     {
       "by": "NI",
       "at": "2026-11-26T03:26:28.582Z",
@@ -196,11 +201,6 @@
       "by": "NI",
       "at": "2026-11-25T17:55:17.493Z",
       "what": "a modifié « Véhicules en braquage »"
-    },
-    {
-      "by": "NI",
-      "at": "2026-11-25T17:50:10.038Z",
-      "what": "a modifié « Règles des braquages »"
     }
   ],
   "sections": [
@@ -437,6 +437,15 @@
       "body": "|Prix des prises d'otages sur membres|\n| Membres: 2,5k|\n| Lead : 5k|\n                                          \n- Interdit de prendre en otage un agent des forces de l'ordres pour demander une rançon sans contextes valables\n- Après avoir PO un groupe, un délai de 5 minutes doit obligatoirement être respecté avant toute nouvelle prise d'otage.\n- Si le lead refuse de payer la somme demandée, le groupe adverse est autorisé à faire farm le joueur pour sa vie, à hauteur de 5 000 $.\n- Si le joueur refuse également de farm ou de s’acquitter des 5 000 $, une mort RP peut être appliquée.",
       "editedBy": "NI",
       "editedAt": "2026-11-25T19:24:59.298Z"
+    },
+    {
+      "id": "nombre_de_ravisseurs_par_braquage",
+      "title": "Nombre de ravisseurs par braquage",
+      "group": "Braquages",
+      "icon": "gavel",
+      "body": "| Braquage | Minimum | Maximum |\n| Fleeca Bank | 3 | 5 |\n| Bijouterie | 3 | 5 |\n| Conteneurs | 6 | 12 |\n| LTD/ATM | 1 | 2 |",
+      "editedBy": "NI",
+      "editedAt": "2026-11-26T19:31:37.514Z"
     }
   ]
 }
