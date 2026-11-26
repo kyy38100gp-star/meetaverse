@@ -1,7 +1,12 @@
 {
   "editedBy": "NI",
-  "editedAt": "2026-11-26T19:31:58.072Z",
+  "editedAt": "2026-11-26T19:32:09.240Z",
   "history": [
+    {
+      "by": "NI",
+      "at": "2026-11-26T19:32:09.240Z",
+      "what": "a réorganisé « Braquages »"
+    },
     {
       "by": "NI",
       "at": "2026-11-26T19:31:58.072Z",
@@ -196,11 +201,6 @@
       "by": "NI",
       "at": "2026-11-25T18:02:20.370Z",
       "what": "a modifié « Règles des prises d'otage »"
-    },
-    {
-      "by": "NI",
-      "at": "2026-11-25T17:56:47.384Z",
-      "what": "a modifié « Véhicules en braquage »"
     }
   ],
   "sections": [
@@ -331,13 +331,13 @@
       "editedAt": "2026-11-25T18:04:12.402Z"
     },
     {
-      "id": "otages_nombre",
+      "id": "nombre_de_ravisseurs_par_braquage",
+      "title": "Nombre de ravisseurs par braquage",
       "group": "Braquages",
-      "icon": "groups",
-      "title": "Nombre d'otages",
-      "body": "| Braquage | Minimum | Maximum |\n| Fleeca Bank | 3 | 4 |\n| Bijouterie | 2 | 5 |\n\n",
+      "icon": "gavel",
+      "body": "| Braquage | Minimum | Maximum |\n| Fleeca Bank | 3 | 5 |\n| Bijouterie | 3 | 5 |\n| Conteneurs | 6 | 12 |\n| LTD/ATM | 1 | 2 |",
       "editedBy": "NI",
-      "editedAt": "2026-11-26T19:31:58.072Z"
+      "editedAt": "2026-11-26T19:31:37.514Z"
     },
     {
       "id": "fuite_regles",
@@ -439,13 +439,13 @@
       "editedAt": "2026-11-25T19:24:59.298Z"
     },
     {
-      "id": "nombre_de_ravisseurs_par_braquage",
-      "title": "Nombre de ravisseurs par braquage",
+      "id": "otages_nombre",
       "group": "Braquages",
-      "icon": "gavel",
-      "body": "| Braquage | Minimum | Maximum |\n| Fleeca Bank | 3 | 5 |\n| Bijouterie | 3 | 5 |\n| Conteneurs | 6 | 12 |\n| LTD/ATM | 1 | 2 |",
+      "icon": "groups",
+      "title": "Nombre d'otages",
+      "body": "| Braquage | Minimum | Maximum |\n| Fleeca Bank | 3 | 4 |\n| Bijouterie | 2 | 5 |\n\n",
       "editedBy": "NI",
-      "editedAt": "2026-11-26T19:31:37.514Z"
+      "editedAt": "2026-11-26T19:31:58.072Z"
     }
   ]
 }
