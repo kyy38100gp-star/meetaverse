@@ -1,7 +1,12 @@
 {
   "editedBy": "NI",
-  "editedAt": "2026-11-26T03:24:39.658Z",
+  "editedAt": "2026-11-26T03:26:28.582Z",
   "history": [
+    {
+      "by": "NI",
+      "at": "2026-11-26T03:26:28.582Z",
+      "what": "a modifié « Drogues »"
+    },
     {
       "by": "NI",
       "at": "2026-11-26T03:24:39.658Z",
@@ -196,11 +201,6 @@
       "by": "NI",
       "at": "2026-11-25T17:50:10.038Z",
       "what": "a modifié « Règles des braquages »"
-    },
-    {
-      "by": "NI",
-      "at": "2026-11-25T17:46:32.942Z",
-      "what": "a modifié « Règles des braquages »"
     }
   ],
   "sections": [
@@ -380,9 +380,9 @@
       "group": "Drogues et points illégaux",
       "icon": "grass",
       "title": "Drogues",
-      "body": "- **Interdit** de vendre à moto, buggy, quad, vélo ou avec un moyen de transport incohérent (supersportive, etc.).\n- Vendre dans une zone revendiquée par un autre groupe peut avoir de **grosses conséquences RP**.\n- Récolte et traitement uniquement avec : **Speedo, Moonbeam, Burrito, Youga, Rumpo**.\n- Il est autorisé de braquer à l’intérieur comme à l’extérieur des points illégaux, sauf dans les laboratoires.\n- Si un groupe n'est pas présent au laboratoire et que la transformation est à l'abandon, les autres groupes peuvent récupérer 100 % des ressources.\n- Si un groupe est présent au laboratoire, les autres groupes doivent attendre qu'il ait terminé de tout récupérer. Ils pourront ensuite récupérer 50 % des ressources.\n\n",
+      "body": "- **Interdit** de vendre à moto, buggy, quad, vélo ou avec un moyen de transport incohérent (supersportive, etc.).\n- Vendre dans une zone revendiquée par un autre groupe peut avoir de **grosses conséquences RP**.\n- Récolte et traitement uniquement avec : **Speedo, Moonbeam, Burrito, Youga, Rumpo**.\n- Il est autorisé de braquer à l’intérieur comme à l’extérieur des points illégaux, sauf dans les laboratoires.\n- Si un groupe n'est pas présent au laboratoire et que la transformation est à l'abandon, les autres groupes peuvent récupérer 100 % des ressources.\n- Si un groupe est présent au laboratoire, les autres groupes doivent attendre qu'il ait terminé de tout récupérer. Ils pourront ensuite récupérer 50 % des ressources après un périmètre de 100 mètres\n\n",
       "editedBy": "NI",
-      "editedAt": "2026-11-26T03:24:39.658Z"
+      "editedAt": "2026-11-26T03:26:28.582Z"
     },
     {
       "id": "points_illegaux",
